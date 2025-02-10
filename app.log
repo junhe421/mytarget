@@ -1,0 +1,2041 @@
+2024-12-27 13:50:28 [INFO] 启动目标管理器
+2024-12-27 13:50:28 [INFO] 开始执行: load_data
+2024-12-27 13:50:28 [INFO] 数据加载成功
+2024-12-27 13:50:28 [INFO] 开始执行: update_list
+2024-12-27 13:50:28 [INFO] 执行成功: update_list
+2024-12-27 13:50:28 [INFO] 执行成功: load_data
+2024-12-27 13:50:28 [INFO] 启动目标管理器
+2024-12-27 13:50:32 [INFO] 开始执行: save_data
+2024-12-27 13:50:32 [INFO] 数据保存成功
+2024-12-27 13:50:32 [INFO] 执行成功: save_data
+2024-12-27 13:50:32 [INFO] 开始执行: update_list
+2024-12-27 13:50:32 [INFO] 执行成功: update_list
+2024-12-27 13:50:32 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 完成
+2024-12-27 13:50:36 [INFO] 开始执行: update_list
+2024-12-27 13:50:36 [INFO] 执行成功: update_list
+2024-12-27 13:50:40 [INFO] 开始执行: save_data
+2024-12-27 13:50:40 [INFO] 数据保存成功
+2024-12-27 13:50:40 [INFO] 执行成功: save_data
+2024-12-27 13:50:40 [INFO] 开始执行: update_list
+2024-12-27 13:50:40 [INFO] 执行成功: update_list
+2024-12-27 13:50:40 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 未完成
+2024-12-27 13:50:44 [INFO] 开始执行: update_list
+2024-12-27 13:50:44 [INFO] 执行成功: update_list
+2024-12-27 13:50:53 [INFO] 开始执行: update_list
+2024-12-27 13:50:53 [INFO] 执行成功: update_list
+2024-12-27 13:51:00 [INFO] 开始执行: update_list
+2024-12-27 13:51:00 [INFO] 执行成功: update_list
+2024-12-27 13:54:05 [INFO] 开始执行: update_list
+2024-12-27 13:54:05 [INFO] 执行成功: update_list
+2024-12-27 13:54:12 [INFO] 开始执行: update_list
+2024-12-27 13:54:12 [INFO] 执行成功: update_list
+2024-12-27 13:54:16 [INFO] 开始执行: save_data
+2024-12-27 13:54:16 [INFO] 数据保存成功
+2024-12-27 13:54:16 [INFO] 执行成功: save_data
+2024-12-27 13:54:16 [INFO] 开始执行: update_list
+2024-12-27 13:54:16 [INFO] 执行成功: update_list
+2024-12-27 13:54:16 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 完成
+2024-12-27 13:54:19 [INFO] 开始执行: update_list
+2024-12-27 13:54:19 [INFO] 执行成功: update_list
+2024-12-27 13:54:21 [INFO] 开始执行: save_data
+2024-12-27 13:54:21 [INFO] 数据保存成功
+2024-12-27 13:54:21 [INFO] 执行成功: save_data
+2024-12-27 13:54:21 [INFO] 开始执行: update_list
+2024-12-27 13:54:21 [INFO] 执行成功: update_list
+2024-12-27 13:54:21 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 未完成
+2024-12-27 13:54:25 [INFO] 开始执行: update_list
+2024-12-27 13:54:25 [INFO] 执行成功: update_list
+2024-12-27 13:54:33 [INFO] 开始执行: update_list
+2024-12-27 13:54:33 [INFO] 执行成功: update_list
+2024-12-27 13:55:07 [INFO] 开始执行: update_list
+2024-12-27 13:55:07 [INFO] 执行成功: update_list
+2024-12-27 13:55:08 [INFO] 关闭目标管理器
+2024-12-27 13:57:16 [INFO] 启动目标管理器
+2024-12-27 13:57:16 [INFO] 开始执行: load_data
+2024-12-27 13:57:16 [INFO] 数据加载成功
+2024-12-27 13:57:16 [INFO] 开始执行: update_list
+2024-12-27 13:57:16 [INFO] 执行成功: update_list
+2024-12-27 13:57:16 [INFO] 执行成功: load_data
+2024-12-27 13:57:16 [INFO] 启动目标管理器
+2024-12-27 13:57:23 [INFO] 开始执行: update_list
+2024-12-27 13:57:23 [INFO] 执行成功: update_list
+2024-12-27 13:57:25 [INFO] 开始执行: save_data
+2024-12-27 13:57:25 [INFO] 数据保存成功
+2024-12-27 13:57:25 [INFO] 执行成功: save_data
+2024-12-27 13:57:25 [INFO] 开始执行: update_list
+2024-12-27 13:57:25 [INFO] 执行成功: update_list
+2024-12-27 13:57:25 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 完成
+2024-12-27 13:57:26 [INFO] 开始执行: save_data
+2024-12-27 13:57:26 [INFO] 数据保存成功
+2024-12-27 13:57:26 [INFO] 执行成功: save_data
+2024-12-27 13:57:26 [INFO] 开始执行: update_list
+2024-12-27 13:57:26 [INFO] 执行成功: update_list
+2024-12-27 13:57:26 [INFO] 更新目标状态: [weekly] 1.完成myshell商品上架 -> 完成
+2024-12-27 13:57:27 [INFO] 开始执行: save_data
+2024-12-27 13:57:27 [INFO] 数据保存成功
+2024-12-27 13:57:27 [INFO] 执行成功: save_data
+2024-12-27 13:57:27 [INFO] 开始执行: update_list
+2024-12-27 13:57:27 [INFO] 执行成功: update_list
+2024-12-27 13:57:27 [INFO] 更新目标状态: [weekly] 2.明年计划 -> 未完成
+2024-12-27 13:57:28 [INFO] 开始执行: save_data
+2024-12-27 13:57:28 [INFO] 数据保存成功
+2024-12-27 13:57:28 [INFO] 执行成功: save_data
+2024-12-27 13:57:28 [INFO] 开始执行: update_list
+2024-12-27 13:57:28 [INFO] 执行成功: update_list
+2024-12-27 13:57:28 [INFO] 更新目标状态: [weekly] 1.完成myshell商品上架 -> 未完成
+2024-12-27 13:57:31 [INFO] 开始执行: update_list
+2024-12-27 13:57:31 [INFO] 执行成功: update_list
+2024-12-27 13:58:59 [INFO] 启动目标管理器
+2024-12-27 13:58:59 [INFO] 开始执行: load_data
+2024-12-27 13:58:59 [INFO] 数据加载成功
+2024-12-27 13:58:59 [INFO] 开始执行: update_list
+2024-12-27 13:58:59 [INFO] 执行成功: update_list
+2024-12-27 13:58:59 [INFO] 执行成功: load_data
+2024-12-27 13:58:59 [INFO] 启动目标管理器
+2024-12-27 13:59:09 [INFO] 开始执行: update_list
+2024-12-27 13:59:09 [INFO] 执行成功: update_list
+2024-12-27 13:59:16 [INFO] 开始执行: update_list
+2024-12-27 13:59:16 [INFO] 执行成功: update_list
+2024-12-27 13:59:24 [INFO] 开始执行: update_list
+2024-12-27 13:59:24 [INFO] 执行成功: update_list
+2024-12-27 13:59:26 [INFO] 切换到本周目标列表
+2024-12-27 13:59:26 [INFO] 开始执行: update_list
+2024-12-27 13:59:26 [INFO] 执行成功: update_list
+2024-12-27 13:59:27 [INFO] 切换到本月目标列表
+2024-12-27 13:59:27 [INFO] 开始执行: update_list
+2024-12-27 13:59:27 [INFO] 执行成功: update_list
+2024-12-27 13:59:28 [INFO] 切换到本年目标列表
+2024-12-27 13:59:28 [INFO] 开始执行: update_list
+2024-12-27 13:59:28 [INFO] 执行成功: update_list
+2024-12-27 13:59:29 [INFO] 切换到本周目标列表
+2024-12-27 13:59:29 [INFO] 开始执行: update_list
+2024-12-27 13:59:29 [INFO] 执行成功: update_list
+2024-12-27 13:59:34 [INFO] 开始执行: update_list
+2024-12-27 13:59:34 [INFO] 执行成功: update_list
+2024-12-27 13:59:41 [INFO] 开始执行: update_list
+2024-12-27 13:59:41 [INFO] 执行成功: update_list
+2024-12-27 13:59:48 [INFO] 开始执行: update_list
+2024-12-27 13:59:48 [INFO] 执行成功: update_list
+2024-12-27 13:59:56 [INFO] 开始执行: update_list
+2024-12-27 13:59:56 [INFO] 执行成功: update_list
+2024-12-27 14:00:00 [INFO] 切换到本月目标列表
+2024-12-27 14:00:00 [INFO] 开始执行: update_list
+2024-12-27 14:00:00 [INFO] 执行成功: update_list
+2024-12-27 14:00:02 [INFO] 开始执行: update_list
+2024-12-27 14:00:02 [INFO] 执行成功: update_list
+2024-12-27 14:00:03 [INFO] 切换到本周目标列表
+2024-12-27 14:00:03 [INFO] 开始执行: update_list
+2024-12-27 14:00:03 [INFO] 执行成功: update_list
+2024-12-27 14:00:13 [INFO] 开始执行: update_list
+2024-12-27 14:00:13 [INFO] 执行成功: update_list
+2024-12-27 14:00:25 [INFO] 开始执行: update_list
+2024-12-27 14:00:25 [INFO] 执行成功: update_list
+2024-12-27 14:00:30 [INFO] 开始执行: update_list
+2024-12-27 14:00:30 [INFO] 执行成功: update_list
+2024-12-27 14:00:30 [INFO] 切换深色主题
+2024-12-27 14:00:33 [INFO] 开始执行: update_list
+2024-12-27 14:00:33 [INFO] 执行成功: update_list
+2024-12-27 14:00:33 [INFO] 开始执行: update_list
+2024-12-27 14:00:33 [INFO] 执行成功: update_list
+2024-12-27 14:00:33 [INFO] 切换浅色主题
+2024-12-27 14:00:40 [INFO] 开始执行: update_list
+2024-12-27 14:00:40 [INFO] 执行成功: update_list
+2024-12-27 14:00:49 [INFO] 开始执行: update_list
+2024-12-27 14:00:49 [INFO] 执行成功: update_list
+2024-12-27 14:00:56 [INFO] 开始执行: update_list
+2024-12-27 14:00:56 [INFO] 执行成功: update_list
+2024-12-27 14:02:40 [INFO] 开始执行: update_list
+2024-12-27 14:02:40 [INFO] 执行成功: update_list
+2024-12-27 14:05:47 [INFO] 启动目标管理器
+2024-12-27 14:05:47 [INFO] 开始执行: load_data
+2024-12-27 14:05:47 [INFO] 数据加载成功
+2024-12-27 14:05:47 [INFO] 开始执行: update_list
+2024-12-27 14:05:47 [INFO] 执行成功: update_list
+2024-12-27 14:05:47 [INFO] 执行成功: load_data
+2024-12-27 14:05:47 [INFO] 启动目标管理器
+2024-12-27 14:05:54 [INFO] 开始执行: update_list
+2024-12-27 14:05:54 [INFO] 执行成功: update_list
+2024-12-27 14:08:47 [INFO] 启动目标管理器
+2024-12-27 14:08:47 [INFO] 开始执行: update_list
+2024-12-27 14:08:47 [ERROR] 执行失败: update_list, 错误: 'GoalTracker' object has no attribute 'goals'
+Traceback (most recent call last):
+  File "E:\kaifasheji\mytarget\MT1.0.4\main.py", line 29, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\kaifasheji\mytarget\MT1.0.4\main.py", line 438, in update_list
+    completed, percentage = self.get_progress_stats()
+  File "E:\kaifasheji\mytarget\MT1.0.4\main.py", line 899, in get_progress_stats
+    total = len(self.goals[self.current_category])
+AttributeError: 'GoalTracker' object has no attribute 'goals'
+2024-12-27 14:09:28 [INFO] 启动目标管理器
+2024-12-27 14:09:28 [INFO] 开始执行: load_data
+2024-12-27 14:09:28 [INFO] 数据加载成功
+2024-12-27 14:09:28 [INFO] 执行成功: load_data
+2024-12-27 14:09:28 [INFO] 开始执行: update_list
+2024-12-27 14:09:28 [ERROR] 执行失败: update_list, 错误: GoalTracker.get_date_range() missing 1 required positional argument: 'category'
+Traceback (most recent call last):
+  File "E:\kaifasheji\mytarget\MT1.0.4\main.py", line 29, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\kaifasheji\mytarget\MT1.0.4\main.py", line 513, in update_list
+    self.date_label.configure(text=self.get_date_range())
+TypeError: GoalTracker.get_date_range() missing 1 required positional argument: 'category'
+2024-12-27 14:10:00 [INFO] 启动目标管理器
+2024-12-27 14:10:00 [INFO] 开始执行: load_data
+2024-12-27 14:10:00 [INFO] 数据加载成功
+2024-12-27 14:10:00 [INFO] 执行成功: load_data
+2024-12-27 14:10:00 [INFO] 开始执行: update_list
+2024-12-27 14:10:00 [INFO] 执行成功: update_list
+2024-12-27 14:10:00 [INFO] 启动目标管理器
+2024-12-27 14:10:07 [INFO] 开始执行: update_list
+2024-12-27 14:10:07 [INFO] 执行成功: update_list
+2024-12-27 14:10:07 [INFO] 开始执行: update_list
+2024-12-27 14:10:07 [INFO] 执行成功: update_list
+2024-12-27 14:10:08 [INFO] 切换到本月目标列表
+2024-12-27 14:10:08 [INFO] 开始执行: update_list
+2024-12-27 14:10:08 [INFO] 执行成功: update_list
+2024-12-27 14:10:09 [INFO] 切换到本年目标列表
+2024-12-27 14:10:09 [INFO] 开始执行: update_list
+2024-12-27 14:10:09 [INFO] 执行成功: update_list
+2024-12-27 14:10:10 [INFO] 切换到本周目标列表
+2024-12-27 14:10:10 [INFO] 开始执行: update_list
+2024-12-27 14:10:10 [INFO] 执行成功: update_list
+2024-12-27 14:10:14 [INFO] 开始执行: update_list
+2024-12-27 14:10:14 [INFO] 执行成功: update_list
+2024-12-27 14:10:14 [INFO] 开始执行: update_list
+2024-12-27 14:10:14 [INFO] 执行成功: update_list
+2024-12-27 14:10:16 [INFO] 切换到本月目标列表
+2024-12-27 14:10:16 [INFO] 开始执行: update_list
+2024-12-27 14:10:16 [INFO] 执行成功: update_list
+2024-12-27 14:10:17 [INFO] 切换到本年目标列表
+2024-12-27 14:10:17 [INFO] 开始执行: update_list
+2024-12-27 14:10:17 [INFO] 执行成功: update_list
+2024-12-27 14:10:18 [INFO] 切换到本周目标列表
+2024-12-27 14:10:18 [INFO] 开始执行: update_list
+2024-12-27 14:10:18 [INFO] 执行成功: update_list
+2024-12-27 14:10:19 [INFO] 切换到本月目标列表
+2024-12-27 14:10:19 [INFO] 开始执行: update_list
+2024-12-27 14:10:19 [INFO] 执行成功: update_list
+2024-12-27 14:10:19 [INFO] 切换到本年目标列表
+2024-12-27 14:10:19 [INFO] 开始执行: update_list
+2024-12-27 14:10:19 [INFO] 执行成功: update_list
+2024-12-27 14:10:21 [INFO] 开始执行: update_list
+2024-12-27 14:10:21 [INFO] 执行成功: update_list
+2024-12-27 14:10:21 [INFO] 开始执行: update_list
+2024-12-27 14:10:21 [INFO] 执行成功: update_list
+2024-12-27 14:10:23 [INFO] 切换到本周目标列表
+2024-12-27 14:10:23 [INFO] 开始执行: update_list
+2024-12-27 14:10:23 [INFO] 执行成功: update_list
+2024-12-27 14:10:28 [INFO] 开始执行: update_list
+2024-12-27 14:10:28 [INFO] 执行成功: update_list
+2024-12-27 14:10:28 [INFO] 开始执行: update_list
+2024-12-27 14:10:28 [INFO] 执行成功: update_list
+2024-12-27 14:10:30 [INFO] 开始执行: save_data
+2024-12-27 14:10:30 [INFO] 数据保存成功
+2024-12-27 14:10:30 [INFO] 执行成功: save_data
+2024-12-27 14:10:30 [INFO] 开始执行: update_list
+2024-12-27 14:10:30 [INFO] 执行成功: update_list
+2024-12-27 14:10:31 [INFO] 开始执行: save_data
+2024-12-27 14:10:31 [INFO] 数据保存成功
+2024-12-27 14:10:31 [INFO] 执行成功: save_data
+2024-12-27 14:10:31 [INFO] 开始执行: update_list
+2024-12-27 14:10:31 [INFO] 执行成功: update_list
+2024-12-27 14:10:32 [INFO] 开始执行: save_data
+2024-12-27 14:10:32 [INFO] 数据保存成功
+2024-12-27 14:10:32 [INFO] 执行成功: save_data
+2024-12-27 14:10:32 [INFO] 开始执行: update_list
+2024-12-27 14:10:32 [INFO] 执行成功: update_list
+2024-12-27 14:10:33 [INFO] 开始执行: save_data
+2024-12-27 14:10:33 [INFO] 数据保存成功
+2024-12-27 14:10:33 [INFO] 执行成功: save_data
+2024-12-27 14:10:33 [INFO] 开始执行: update_list
+2024-12-27 14:10:33 [INFO] 执行成功: update_list
+2024-12-27 14:10:36 [INFO] 开始执行: update_list
+2024-12-27 14:10:36 [INFO] 执行成功: update_list
+2024-12-27 14:10:36 [INFO] 开始执行: update_list
+2024-12-27 14:10:36 [INFO] 执行成功: update_list
+2024-12-27 14:10:37 [INFO] 开始执行: save_data
+2024-12-27 14:10:37 [INFO] 数据保存成功
+2024-12-27 14:10:37 [INFO] 执行成功: save_data
+2024-12-27 14:10:37 [INFO] 开始执行: update_list
+2024-12-27 14:10:37 [INFO] 执行成功: update_list
+2024-12-27 14:10:38 [INFO] 开始执行: save_data
+2024-12-27 14:10:38 [INFO] 数据保存成功
+2024-12-27 14:10:38 [INFO] 执行成功: save_data
+2024-12-27 14:10:38 [INFO] 开始执行: update_list
+2024-12-27 14:10:38 [INFO] 执行成功: update_list
+2024-12-27 14:10:38 [INFO] 开始执行: save_data
+2024-12-27 14:10:38 [INFO] 数据保存成功
+2024-12-27 14:10:38 [INFO] 执行成功: save_data
+2024-12-27 14:10:38 [INFO] 开始执行: update_list
+2024-12-27 14:10:38 [INFO] 执行成功: update_list
+2024-12-27 14:10:39 [INFO] 开始执行: save_data
+2024-12-27 14:10:39 [INFO] 数据保存成功
+2024-12-27 14:10:39 [INFO] 执行成功: save_data
+2024-12-27 14:10:39 [INFO] 开始执行: update_list
+2024-12-27 14:10:39 [INFO] 执行成功: update_list
+2024-12-27 14:10:42 [INFO] 开始执行: update_list
+2024-12-27 14:10:42 [INFO] 执行成功: update_list
+2024-12-27 14:10:42 [INFO] 开始执行: update_list
+2024-12-27 14:10:42 [INFO] 执行成功: update_list
+2024-12-27 14:10:49 [INFO] 开始执行: update_list
+2024-12-27 14:10:49 [INFO] 执行成功: update_list
+2024-12-27 14:10:49 [INFO] 开始执行: update_list
+2024-12-27 14:10:49 [INFO] 执行成功: update_list
+2024-12-27 14:13:09 [INFO] 开始执行: update_list
+2024-12-27 14:13:09 [INFO] 执行成功: update_list
+2024-12-27 14:13:09 [INFO] 开始执行: update_list
+2024-12-27 14:13:09 [INFO] 执行成功: update_list
+2024-12-27 14:13:13 [INFO] 开始执行: save_data
+2024-12-27 14:13:13 [INFO] 数据保存成功
+2024-12-27 14:13:13 [INFO] 执行成功: save_data
+2024-12-27 14:13:13 [INFO] 关闭目标管理器
+2024-12-27 14:13:42 [INFO] 启动目标管理器
+2024-12-27 14:13:42 [INFO] 开始执行: load_data
+2024-12-27 14:13:42 [INFO] 数据加载成功
+2024-12-27 14:13:42 [INFO] 执行成功: load_data
+2024-12-27 14:13:42 [INFO] 开始执行: update_list
+2024-12-27 14:13:42 [INFO] 执行成功: update_list
+2024-12-27 14:13:42 [INFO] 启动目标管理器
+2024-12-27 14:13:46 [INFO] 切换到本月目标列表
+2024-12-27 14:13:46 [INFO] 开始执行: update_list
+2024-12-27 14:13:46 [INFO] 执行成功: update_list
+2024-12-27 14:13:47 [INFO] 切换到本年目标列表
+2024-12-27 14:13:47 [INFO] 开始执行: update_list
+2024-12-27 14:13:47 [INFO] 执行成功: update_list
+2024-12-27 14:13:49 [INFO] 开始执行: update_list
+2024-12-27 14:13:49 [INFO] 执行成功: update_list
+2024-12-27 14:13:49 [INFO] 开始执行: update_list
+2024-12-27 14:13:49 [INFO] 执行成功: update_list
+2024-12-27 14:13:50 [INFO] 切换到本周目标列表
+2024-12-27 14:13:50 [INFO] 开始执行: update_list
+2024-12-27 14:13:50 [INFO] 执行成功: update_list
+2024-12-27 14:14:32 [INFO] 启动目标管理器
+2024-12-27 14:14:32 [INFO] 开始执行: load_data
+2024-12-27 14:14:32 [INFO] 数据加载成功
+2024-12-27 14:14:32 [INFO] 执行成功: load_data
+2024-12-27 14:14:32 [INFO] 开始执行: update_list
+2024-12-27 14:14:33 [INFO] 执行成功: update_list
+2024-12-27 14:14:33 [INFO] 启动目标管理器
+2024-12-27 14:14:39 [INFO] 开始执行: update_list
+2024-12-27 14:14:39 [INFO] 执行成功: update_list
+2024-12-27 14:14:39 [INFO] 开始执行: update_list
+2024-12-27 14:14:39 [INFO] 执行成功: update_list
+2024-12-27 14:14:42 [INFO] 切换到本月目标列表
+2024-12-27 14:14:42 [INFO] 开始执行: update_list
+2024-12-27 14:14:42 [INFO] 执行成功: update_list
+2024-12-27 14:14:42 [INFO] 切换到本年目标列表
+2024-12-27 14:14:42 [INFO] 开始执行: update_list
+2024-12-27 14:14:42 [INFO] 执行成功: update_list
+2024-12-27 14:14:43 [INFO] 切换到本周目标列表
+2024-12-27 14:14:43 [INFO] 开始执行: update_list
+2024-12-27 14:14:43 [INFO] 执行成功: update_list
+2024-12-27 14:14:43 [INFO] 切换到本月目标列表
+2024-12-27 14:14:43 [INFO] 开始执行: update_list
+2024-12-27 14:14:43 [INFO] 执行成功: update_list
+2024-12-27 14:14:46 [INFO] 开始执行: update_list
+2024-12-27 14:14:46 [INFO] 执行成功: update_list
+2024-12-27 14:14:46 [INFO] 开始执行: update_list
+2024-12-27 14:14:46 [INFO] 执行成功: update_list
+2024-12-27 14:17:10 [INFO] 启动目标管理器
+2024-12-27 14:17:10 [INFO] 开始执行: load_data
+2024-12-27 14:17:10 [INFO] 数据加载成功
+2024-12-27 14:17:10 [INFO] 执行成功: load_data
+2024-12-27 14:17:10 [INFO] 开始执行: update_list
+2024-12-27 14:17:10 [INFO] 执行成功: update_list
+2024-12-27 14:17:10 [INFO] 启动目标管理器
+2024-12-27 14:17:13 [INFO] 切换到本月目标列表
+2024-12-27 14:17:13 [INFO] 开始执行: update_list
+2024-12-27 14:17:13 [INFO] 执行成功: update_list
+2024-12-27 14:17:14 [INFO] 切换到本年目标列表
+2024-12-27 14:17:14 [INFO] 开始执行: update_list
+2024-12-27 14:17:14 [INFO] 执行成功: update_list
+2024-12-27 14:17:15 [INFO] 切换到本周目标列表
+2024-12-27 14:17:15 [INFO] 开始执行: update_list
+2024-12-27 14:17:15 [INFO] 执行成功: update_list
+2024-12-27 14:17:17 [INFO] 开始执行: update_list
+2024-12-27 14:17:17 [INFO] 执行成功: update_list
+2024-12-27 14:17:17 [INFO] 开始执行: update_list
+2024-12-27 14:17:17 [INFO] 执行成功: update_list
+2024-12-27 14:17:26 [INFO] 开始执行: update_list
+2024-12-27 14:17:26 [INFO] 执行成功: update_list
+2024-12-27 14:17:26 [INFO] 开始执行: update_list
+2024-12-27 14:17:26 [INFO] 执行成功: update_list
+2024-12-27 14:17:29 [INFO] 开始执行: add_goal
+2024-12-27 14:17:29 [INFO] 准备添加目标: sdffs (优先级: low)
+2024-12-27 14:17:29 [INFO] 开始执行: save_data
+2024-12-27 14:17:29 [INFO] 数据保存成功
+2024-12-27 14:17:29 [INFO] 执行成功: save_data
+2024-12-27 14:17:29 [INFO] 开始执行: update_list
+2024-12-27 14:17:29 [INFO] 执行成功: update_list
+2024-12-27 14:17:29 [INFO] 添加目标成功: [weekly] sdffs (优先级: low)
+2024-12-27 14:17:29 [INFO] 执行成功: add_goal
+2024-12-27 14:18:00 [INFO] 开始执行: update_list
+2024-12-27 14:18:00 [INFO] 执行成功: update_list
+2024-12-27 14:18:00 [INFO] 开始执行: update_list
+2024-12-27 14:18:00 [INFO] 执行成功: update_list
+2024-12-27 14:18:02 [INFO] 开始执行: save_data
+2024-12-27 14:18:02 [INFO] 数据保存成功
+2024-12-27 14:18:02 [INFO] 执行成功: save_data
+2024-12-27 14:18:02 [INFO] 关闭目标管理器
+2024-12-27 14:18:35 [INFO] 启动目标管理器
+2024-12-27 14:18:35 [INFO] 开始执行: load_data
+2024-12-27 14:18:35 [INFO] 数据加载成功
+2024-12-27 14:18:35 [INFO] 执行成功: load_data
+2024-12-27 14:18:35 [INFO] 开始执行: update_list
+2024-12-27 14:18:35 [INFO] 执行成功: update_list
+2024-12-27 14:18:35 [INFO] 启动目标管理器
+2024-12-27 14:18:41 [INFO] 开始执行: update_list
+2024-12-27 14:18:41 [INFO] 执行成功: update_list
+2024-12-27 14:18:41 [INFO] 开始执行: update_list
+2024-12-27 14:18:41 [INFO] 执行成功: update_list
+2024-12-27 14:18:42 [INFO] 切换到本月目标列表
+2024-12-27 14:18:42 [INFO] 开始执行: update_list
+2024-12-27 14:18:42 [INFO] 执行成功: update_list
+2024-12-27 14:18:43 [INFO] 切换到本年目标列表
+2024-12-27 14:18:43 [INFO] 开始执行: update_list
+2024-12-27 14:18:43 [INFO] 执行成功: update_list
+2024-12-27 14:18:45 [INFO] 切换到本月目标列表
+2024-12-27 14:18:45 [INFO] 开始执行: update_list
+2024-12-27 14:18:45 [INFO] 执行成功: update_list
+2024-12-27 14:18:46 [INFO] 切换到本周目标列表
+2024-12-27 14:18:46 [INFO] 开始执行: update_list
+2024-12-27 14:18:46 [INFO] 执行成功: update_list
+2024-12-27 14:18:49 [INFO] 开始执行: update_list
+2024-12-27 14:18:49 [INFO] 执行成功: update_list
+2024-12-27 14:18:49 [INFO] 开始执行: update_list
+2024-12-27 14:18:49 [INFO] 执行成功: update_list
+2024-12-27 14:18:53 [INFO] 开始执行: save_data
+2024-12-27 14:18:53 [INFO] 数据保存成功
+2024-12-27 14:18:53 [INFO] 执行成功: save_data
+2024-12-27 14:18:53 [INFO] 开始执行: update_list
+2024-12-27 14:18:53 [INFO] 执行成功: update_list
+2024-12-27 14:18:56 [INFO] 开始执行: update_list
+2024-12-27 14:18:56 [INFO] 执行成功: update_list
+2024-12-27 14:18:56 [INFO] 开始执行: update_list
+2024-12-27 14:18:56 [INFO] 执行成功: update_list
+2024-12-27 14:19:04 [INFO] 开始执行: update_list
+2024-12-27 14:19:04 [INFO] 执行成功: update_list
+2024-12-27 14:19:04 [INFO] 开始执行: update_list
+2024-12-27 14:19:04 [INFO] 执行成功: update_list
+2024-12-27 14:19:11 [INFO] 开始执行: update_list
+2024-12-27 14:19:11 [INFO] 执行成功: update_list
+2024-12-27 14:19:11 [INFO] 开始执行: update_list
+2024-12-27 14:19:11 [INFO] 执行成功: update_list
+2024-12-27 14:19:18 [INFO] 开始执行: update_list
+2024-12-27 14:19:18 [INFO] 执行成功: update_list
+2024-12-27 14:19:18 [INFO] 开始执行: update_list
+2024-12-27 14:19:18 [INFO] 执行成功: update_list
+2024-12-27 14:25:38 [INFO] 启动目标管理器
+2024-12-27 14:25:38 [INFO] 开始执行: load_data
+2024-12-27 14:25:38 [INFO] 数据加载成功
+2024-12-27 14:25:38 [INFO] 执行成功: load_data
+2024-12-27 14:25:39 [INFO] 开始执行: update_list
+2024-12-27 14:25:39 [INFO] 执行成功: update_list
+2024-12-27 14:25:39 [INFO] 启动目标管理器
+2024-12-27 14:25:42 [INFO] 开始执行: save_data
+2024-12-27 14:25:42 [INFO] 数据保存成功
+2024-12-27 14:25:42 [INFO] 执行成功: save_data
+2024-12-27 14:25:42 [INFO] 开始执行: update_list
+2024-12-27 14:25:42 [INFO] 执行成功: update_list
+2024-12-27 14:25:43 [INFO] 开始执行: save_data
+2024-12-27 14:25:43 [INFO] 数据保存成功
+2024-12-27 14:25:43 [INFO] 执行成功: save_data
+2024-12-27 14:25:43 [INFO] 开始执行: update_list
+2024-12-27 14:25:43 [INFO] 执行成功: update_list
+2024-12-27 14:25:44 [INFO] 开始执行: save_data
+2024-12-27 14:25:44 [INFO] 数据保存成功
+2024-12-27 14:25:44 [INFO] 执行成功: save_data
+2024-12-27 14:25:44 [INFO] 开始执行: update_list
+2024-12-27 14:25:44 [INFO] 执行成功: update_list
+2024-12-27 14:25:52 [INFO] 开始执行: update_list
+2024-12-27 14:25:52 [INFO] 执行成功: update_list
+2024-12-27 14:25:52 [INFO] 开始执行: update_list
+2024-12-27 14:25:52 [INFO] 执行成功: update_list
+2024-12-27 14:25:56 [INFO] 开始执行: save_data
+2024-12-27 14:25:56 [INFO] 数据保存成功
+2024-12-27 14:25:56 [INFO] 执行成功: save_data
+2024-12-27 14:25:56 [INFO] 开始执行: update_list
+2024-12-27 14:25:56 [INFO] 执行成功: update_list
+2024-12-27 14:25:57 [INFO] 开始执行: save_data
+2024-12-27 14:25:57 [INFO] 数据保存成功
+2024-12-27 14:25:57 [INFO] 执行成功: save_data
+2024-12-27 14:25:57 [INFO] 开始执行: update_list
+2024-12-27 14:25:57 [INFO] 执行成功: update_list
+2024-12-27 14:25:58 [INFO] 开始执行: save_data
+2024-12-27 14:25:58 [INFO] 数据保存成功
+2024-12-27 14:25:58 [INFO] 执行成功: save_data
+2024-12-27 14:25:58 [INFO] 开始执行: update_list
+2024-12-27 14:25:58 [INFO] 执行成功: update_list
+2024-12-27 14:26:07 [INFO] 开始执行: update_list
+2024-12-27 14:26:07 [INFO] 执行成功: update_list
+2024-12-27 14:26:07 [INFO] 开始执行: update_list
+2024-12-27 14:26:07 [INFO] 执行成功: update_list
+2024-12-27 14:26:14 [INFO] 开始执行: update_list
+2024-12-27 14:26:14 [INFO] 执行成功: update_list
+2024-12-27 14:26:14 [INFO] 开始执行: update_list
+2024-12-27 14:26:14 [INFO] 执行成功: update_list
+2024-12-27 14:26:18 [INFO] 开始执行: update_list
+2024-12-27 14:26:18 [INFO] 执行成功: update_list
+2024-12-27 14:26:18 [INFO] 切换深色主题
+2024-12-27 14:26:19 [INFO] 开始执行: update_list
+2024-12-27 14:26:19 [INFO] 执行成功: update_list
+2024-12-27 14:26:19 [INFO] 切换浅色主题
+2024-12-27 14:26:21 [INFO] 开始执行: update_list
+2024-12-27 14:26:21 [INFO] 执行成功: update_list
+2024-12-27 14:26:21 [INFO] 开始执行: update_list
+2024-12-27 14:26:21 [INFO] 执行成功: update_list
+2024-12-27 15:18:40 [INFO] 开始执行: update_list
+2024-12-27 15:18:40 [INFO] 执行成功: update_list
+2024-12-27 15:18:40 [INFO] 开始执行: update_list
+2024-12-27 15:18:40 [INFO] 执行成功: update_list
+2024-12-27 15:18:47 [INFO] 开始执行: update_list
+2024-12-27 15:18:47 [INFO] 执行成功: update_list
+2024-12-27 15:18:47 [INFO] 开始执行: update_list
+2024-12-27 15:18:47 [INFO] 执行成功: update_list
+2024-12-27 15:18:52 [INFO] 开始执行: add_goal
+2024-12-27 15:18:52 [INFO] 准备添加目标: 你好 (优先级: low)
+2024-12-27 15:18:52 [INFO] 开始执行: save_data
+2024-12-27 15:18:52 [INFO] 数据保存成功
+2024-12-27 15:18:52 [INFO] 执行成功: save_data
+2024-12-27 15:18:52 [INFO] 开始执行: update_list
+2024-12-27 15:18:52 [INFO] 执行成功: update_list
+2024-12-27 15:18:52 [INFO] 添加目标成功: [weekly] 你好 (优先级: low)
+2024-12-27 15:18:52 [INFO] 执行成功: add_goal
+2024-12-27 15:18:54 [INFO] 开始执行: update_list
+2024-12-27 15:18:54 [INFO] 执行成功: update_list
+2024-12-27 15:18:54 [INFO] 开始执行: update_list
+2024-12-27 15:18:54 [INFO] 执行成功: update_list
+2024-12-27 15:18:58 [INFO] 开始执行: save_data
+2024-12-27 15:18:58 [INFO] 数据保存成功
+2024-12-27 15:18:58 [INFO] 执行成功: save_data
+2024-12-27 15:18:58 [INFO] 开始执行: update_list
+2024-12-27 15:18:58 [INFO] 执行成功: update_list
+2024-12-27 15:19:11 [INFO] 用户中断程序
+2024-12-27 15:19:11 [INFO] 关闭目标管理器
+2024-12-27 15:24:08 [INFO] 启动目标管理器
+2024-12-27 15:24:08 [INFO] 开始执行: load_data
+2024-12-27 15:24:08 [INFO] 数据加载成功
+2024-12-27 15:24:08 [INFO] 执行成功: load_data
+2024-12-27 15:24:08 [INFO] 开始执行: update_list
+2024-12-27 15:24:08 [INFO] 执行成功: update_list
+2024-12-27 15:24:08 [INFO] 启动目标管理器
+2024-12-27 15:24:15 [INFO] 开始执行: update_list
+2024-12-27 15:24:15 [INFO] 执行成功: update_list
+2024-12-27 15:24:15 [INFO] 开始执行: update_list
+2024-12-27 15:24:15 [INFO] 执行成功: update_list
+2024-12-27 15:24:32 [INFO] 启动目标管理器
+2024-12-27 15:24:32 [INFO] 开始执行: load_data
+2024-12-27 15:24:32 [INFO] 数据加载成功
+2024-12-27 15:24:32 [INFO] 执行成功: load_data
+2024-12-27 15:24:33 [INFO] 开始执行: update_list
+2024-12-27 15:24:33 [INFO] 执行成功: update_list
+2024-12-27 15:24:33 [INFO] 启动目标管理器
+2024-12-27 15:24:41 [INFO] 开始执行: update_list
+2024-12-27 15:24:41 [INFO] 执行成功: update_list
+2024-12-27 15:24:41 [INFO] 开始执行: update_list
+2024-12-27 15:24:41 [INFO] 执行成功: update_list
+2024-12-27 15:24:45 [INFO] 开始执行: save_data
+2024-12-27 15:24:45 [INFO] 数据保存成功
+2024-12-27 15:24:45 [INFO] 执行成功: save_data
+2024-12-27 15:24:45 [INFO] 关闭目标管理器
+2024-12-27 15:38:13 [INFO] 启动目标管理器
+2024-12-27 15:38:13 [INFO] 开始执行: load_data
+2024-12-27 15:38:13 [INFO] 数据加载成功
+2024-12-27 15:38:13 [INFO] 执行成功: load_data
+2024-12-27 15:38:13 [INFO] 开始执行: update_list
+2024-12-27 15:38:13 [INFO] 执行成功: update_list
+2024-12-27 15:38:13 [INFO] 启动目标管理器
+2024-12-27 15:38:19 [INFO] 开始执行: update_list
+2024-12-27 15:38:19 [INFO] 执行成功: update_list
+2024-12-27 15:38:19 [INFO] 开始执行: update_list
+2024-12-27 15:38:19 [INFO] 执行成功: update_list
+2024-12-27 15:38:20 [INFO] 开始执行: save_data
+2024-12-27 15:38:20 [INFO] 数据保存成功
+2024-12-27 15:38:20 [INFO] 执行成功: save_data
+2024-12-27 15:38:20 [INFO] 开始执行: update_list
+2024-12-27 15:38:21 [INFO] 执行成功: update_list
+2024-12-27 15:38:22 [INFO] 开始执行: save_data
+2024-12-27 15:38:22 [INFO] 数据保存成功
+2024-12-27 15:38:22 [INFO] 执行成功: save_data
+2024-12-27 15:38:22 [INFO] 开始执行: update_list
+2024-12-27 15:38:22 [INFO] 执行成功: update_list
+2024-12-27 15:38:22 [INFO] 开始执行: save_data
+2024-12-27 15:38:22 [INFO] 数据保存成功
+2024-12-27 15:38:22 [INFO] 执行成功: save_data
+2024-12-27 15:38:22 [INFO] 开始执行: update_list
+2024-12-27 15:38:22 [INFO] 执行成功: update_list
+2024-12-27 15:38:23 [INFO] 开始执行: save_data
+2024-12-27 15:38:23 [INFO] 数据保存成功
+2024-12-27 15:38:23 [INFO] 执行成功: save_data
+2024-12-27 15:38:23 [INFO] 开始执行: update_list
+2024-12-27 15:38:23 [INFO] 执行成功: update_list
+2024-12-27 15:38:25 [INFO] 开始执行: save_data
+2024-12-27 15:38:25 [INFO] 数据保存成功
+2024-12-27 15:38:25 [INFO] 执行成功: save_data
+2024-12-27 15:38:25 [INFO] 开始执行: update_list
+2024-12-27 15:38:25 [INFO] 执行成功: update_list
+2024-12-27 15:38:26 [INFO] 开始执行: update_list
+2024-12-27 15:38:26 [INFO] 执行成功: update_list
+2024-12-27 15:38:26 [INFO] 开始执行: update_list
+2024-12-27 15:38:26 [INFO] 执行成功: update_list
+2024-12-27 15:38:28 [INFO] 开始执行: save_data
+2024-12-27 15:38:28 [INFO] 数据保存成功
+2024-12-27 15:38:28 [INFO] 执行成功: save_data
+2024-12-27 15:38:28 [INFO] 开始执行: update_list
+2024-12-27 15:38:28 [INFO] 执行成功: update_list
+2024-12-27 15:38:29 [INFO] 开始执行: save_data
+2024-12-27 15:38:29 [INFO] 数据保存成功
+2024-12-27 15:38:29 [INFO] 执行成功: save_data
+2024-12-27 15:38:29 [INFO] 开始执行: update_list
+2024-12-27 15:38:29 [INFO] 执行成功: update_list
+2024-12-27 15:38:30 [INFO] 开始执行: save_data
+2024-12-27 15:38:30 [INFO] 数据保存成功
+2024-12-27 15:38:30 [INFO] 执行成功: save_data
+2024-12-27 15:38:30 [INFO] 开始执行: update_list
+2024-12-27 15:38:30 [INFO] 执行成功: update_list
+2024-12-27 15:38:32 [INFO] 开始执行: save_data
+2024-12-27 15:38:32 [INFO] 数据保存成功
+2024-12-27 15:38:32 [INFO] 执行成功: save_data
+2024-12-27 15:38:32 [INFO] 开始执行: update_list
+2024-12-27 15:38:32 [INFO] 执行成功: update_list
+2024-12-27 15:38:34 [INFO] 开始执行: update_list
+2024-12-27 15:38:34 [INFO] 执行成功: update_list
+2024-12-27 15:38:34 [INFO] 开始执行: update_list
+2024-12-27 15:38:34 [INFO] 执行成功: update_list
+2024-12-27 15:38:35 [INFO] 开始执行: save_data
+2024-12-27 15:38:35 [INFO] 数据保存成功
+2024-12-27 15:38:35 [INFO] 执行成功: save_data
+2024-12-27 15:38:35 [INFO] 开始执行: update_list
+2024-12-27 15:38:35 [INFO] 执行成功: update_list
+2024-12-27 15:40:58 [INFO] 启动目标管理器
+2024-12-27 15:40:58 [INFO] 开始执行: load_data
+2024-12-27 15:40:58 [INFO] 数据加载成功
+2024-12-27 15:40:58 [INFO] 执行成功: load_data
+2024-12-27 15:40:58 [INFO] 开始执行: update_list
+2024-12-27 15:40:58 [INFO] 执行成功: update_list
+2024-12-27 15:40:58 [INFO] 启动目标管理器
+2024-12-27 15:41:01 [INFO] 切换到本月目标列表
+2024-12-27 15:41:01 [INFO] 开始执行: update_list
+2024-12-27 15:41:01 [INFO] 执行成功: update_list
+2024-12-27 15:41:01 [INFO] 切换到本年目标列表
+2024-12-27 15:41:01 [INFO] 开始执行: update_list
+2024-12-27 15:41:01 [INFO] 执行成功: update_list
+2024-12-27 15:41:06 [INFO] 开始执行: update_list
+2024-12-27 15:41:06 [INFO] 执行成功: update_list
+2024-12-27 15:41:06 [INFO] 开始执行: update_list
+2024-12-27 15:41:06 [INFO] 执行成功: update_list
+2024-12-27 15:41:14 [INFO] 开始执行: update_list
+2024-12-27 15:41:14 [INFO] 执行成功: update_list
+2024-12-27 15:41:14 [INFO] 开始执行: update_list
+2024-12-27 15:41:14 [INFO] 执行成功: update_list
+2024-12-27 15:41:15 [INFO] 切换到本周目标列表
+2024-12-27 15:41:15 [INFO] 开始执行: update_list
+2024-12-27 15:41:15 [INFO] 执行成功: update_list
+2024-12-27 15:41:19 [INFO] 开始执行: save_data
+2024-12-27 15:41:19 [INFO] 数据保存成功
+2024-12-27 15:41:19 [INFO] 执行成功: save_data
+2024-12-27 15:41:19 [INFO] 关闭目标管理器
+2024-12-27 16:00:05 [INFO] 启动目标管理器
+2024-12-27 16:00:05 [INFO] 开始执行: load_data
+2024-12-27 16:00:05 [INFO] 数据加载成功
+2024-12-27 16:00:05 [INFO] 执行成功: load_data
+2024-12-27 16:00:06 [INFO] 开始执行: update_list
+2024-12-27 16:00:06 [INFO] 执行成功: update_list
+2024-12-27 16:00:06 [INFO] 启动目标管理器
+2024-12-27 16:00:14 [INFO] 开始执行: update_list
+2024-12-27 16:00:14 [INFO] 执行成功: update_list
+2024-12-27 16:00:14 [INFO] 开始执行: update_list
+2024-12-27 16:00:14 [INFO] 执行成功: update_list
+2024-12-27 16:00:17 [INFO] 开始执行: save_data
+2024-12-27 16:00:17 [INFO] 数据保存成功
+2024-12-27 16:00:17 [INFO] 执行成功: save_data
+2024-12-27 16:00:17 [INFO] 关闭目标管理器
+2024-12-27 16:27:02 [INFO] 启动目标管理器
+2024-12-27 16:27:02 [INFO] 开始执行: load_data
+2024-12-27 16:27:02 [INFO] 数据加载成功
+2024-12-27 16:27:02 [INFO] 执行成功: load_data
+2024-12-27 16:27:02 [INFO] 开始执行: update_list
+2024-12-27 16:27:02 [INFO] 执行成功: update_list
+2024-12-27 16:27:02 [INFO] 启动目标管理器
+2024-12-27 16:27:09 [INFO] 开始执行: update_list
+2024-12-27 16:27:09 [INFO] 执行成功: update_list
+2024-12-27 16:27:09 [INFO] 开始执行: update_list
+2024-12-27 16:27:09 [INFO] 执行成功: update_list
+2024-12-27 16:27:13 [INFO] 切换到本月目标列表
+2024-12-27 16:27:13 [INFO] 开始执行: update_list
+2024-12-27 16:27:13 [INFO] 执行成功: update_list
+2024-12-27 16:27:14 [INFO] 切换到本年目标列表
+2024-12-27 16:27:14 [INFO] 开始执行: update_list
+2024-12-27 16:27:14 [INFO] 执行成功: update_list
+2024-12-27 16:27:14 [INFO] 切换到本周目标列表
+2024-12-27 16:27:14 [INFO] 开始执行: update_list
+2024-12-27 16:27:14 [INFO] 执行成功: update_list
+2024-12-27 16:27:16 [INFO] 开始执行: update_list
+2024-12-27 16:27:16 [INFO] 执行成功: update_list
+2024-12-27 16:27:16 [INFO] 开始执行: update_list
+2024-12-27 16:27:16 [INFO] 执行成功: update_list
+2024-12-27 16:28:39 [INFO] 启动目标管理器
+2024-12-27 16:28:39 [INFO] 开始执行: load_data
+2024-12-27 16:28:39 [INFO] 成功加载数据
+2024-12-27 16:28:39 [INFO] 执行成功: load_data
+2024-12-27 16:28:39 [INFO] 开始执行: update_list
+2024-12-27 16:28:39 [INFO] 执行成功: update_list
+2024-12-27 16:28:39 [INFO] 启动目标管理器
+2024-12-27 16:28:46 [INFO] 开始执行: update_list
+2024-12-27 16:28:46 [INFO] 执行成功: update_list
+2024-12-27 16:28:46 [INFO] 开始执行: update_list
+2024-12-27 16:28:46 [INFO] 执行成功: update_list
+2024-12-27 16:28:47 [INFO] 开始执行: save_data
+2024-12-27 16:28:47 [INFO] 数据保存成功
+2024-12-27 16:28:47 [INFO] 执行成功: save_data
+2024-12-27 16:28:47 [INFO] 开始执行: update_list
+2024-12-27 16:28:47 [INFO] 执行成功: update_list
+2024-12-27 16:28:49 [INFO] 开始执行: save_data
+2024-12-27 16:28:49 [INFO] 数据保存成功
+2024-12-27 16:28:49 [INFO] 执行成功: save_data
+2024-12-27 16:28:49 [INFO] 开始执行: update_list
+2024-12-27 16:28:49 [INFO] 执行成功: update_list
+2024-12-27 16:28:53 [INFO] 开始执行: update_list
+2024-12-27 16:28:53 [INFO] 执行成功: update_list
+2024-12-27 16:28:53 [INFO] 开始执行: update_list
+2024-12-27 16:28:53 [INFO] 执行成功: update_list
+2024-12-27 16:28:57 [INFO] 切换到本月目标列表
+2024-12-27 16:28:57 [INFO] 开始执行: update_list
+2024-12-27 16:28:57 [INFO] 执行成功: update_list
+2024-12-27 16:29:00 [INFO] 开始执行: update_list
+2024-12-27 16:29:00 [INFO] 执行成功: update_list
+2024-12-27 16:29:00 [INFO] 开始执行: update_list
+2024-12-27 16:29:00 [INFO] 执行成功: update_list
+2024-12-27 16:29:01 [INFO] 切换到本年目标列表
+2024-12-27 16:29:01 [INFO] 开始执行: update_list
+2024-12-27 16:29:01 [INFO] 执行成功: update_list
+2024-12-27 16:29:02 [INFO] 切换到本周目标列表
+2024-12-27 16:29:02 [INFO] 开始执行: update_list
+2024-12-27 16:29:02 [INFO] 执行成功: update_list
+2024-12-27 16:29:07 [INFO] 开始执行: update_list
+2024-12-27 16:29:07 [INFO] 执行成功: update_list
+2024-12-27 16:29:07 [INFO] 开始执行: update_list
+2024-12-27 16:29:07 [INFO] 执行成功: update_list
+2024-12-27 16:29:11 [INFO] 开始执行: update_list
+2024-12-27 16:29:11 [INFO] 执行成功: update_list
+2024-12-27 16:29:11 [INFO] 切换深色主题
+2024-12-27 16:29:12 [INFO] 开始执行: update_list
+2024-12-27 16:29:12 [INFO] 执行成功: update_list
+2024-12-27 16:29:12 [INFO] 切换浅色主题
+2024-12-27 16:29:14 [INFO] 开始执行: update_list
+2024-12-27 16:29:14 [INFO] 执行成功: update_list
+2024-12-27 16:29:14 [INFO] 开始执行: update_list
+2024-12-27 16:29:14 [INFO] 执行成功: update_list
+2024-12-27 16:29:21 [INFO] 开始执行: update_list
+2024-12-27 16:29:21 [INFO] 执行成功: update_list
+2024-12-27 16:29:21 [INFO] 开始执行: update_list
+2024-12-27 16:29:21 [INFO] 执行成功: update_list
+2024-12-27 16:29:24 [INFO] 开始执行: save_data
+2024-12-27 16:29:24 [INFO] 数据保存成功
+2024-12-27 16:29:24 [INFO] 执行成功: save_data
+2024-12-27 16:29:24 [INFO] 关闭目标管理器
+2024-12-27 16:29:35 [INFO] 启动目标管理器
+2024-12-27 16:29:35 [INFO] 开始执行: load_data
+2024-12-27 16:29:35 [INFO] 成功加载数据
+2024-12-27 16:29:35 [INFO] 执行成功: load_data
+2024-12-27 16:29:35 [INFO] 开始执行: update_list
+2024-12-27 16:29:35 [INFO] 执行成功: update_list
+2024-12-27 16:29:35 [INFO] 启动目标管理器
+2024-12-27 16:29:40 [INFO] 切换到本月目标列表
+2024-12-27 16:29:40 [INFO] 开始执行: update_list
+2024-12-27 16:29:40 [INFO] 执行成功: update_list
+2024-12-27 16:29:40 [INFO] 切换到本年目标列表
+2024-12-27 16:29:40 [INFO] 开始执行: update_list
+2024-12-27 16:29:40 [INFO] 执行成功: update_list
+2024-12-27 16:29:42 [INFO] 开始执行: update_list
+2024-12-27 16:29:42 [INFO] 执行成功: update_list
+2024-12-27 16:29:42 [INFO] 开始执行: update_list
+2024-12-27 16:29:42 [INFO] 执行成功: update_list
+2024-12-27 16:29:46 [INFO] 切换到本周目标列表
+2024-12-27 16:29:46 [INFO] 开始执行: update_list
+2024-12-27 16:29:46 [INFO] 执行成功: update_list
+2024-12-27 16:29:49 [INFO] 开始执行: update_list
+2024-12-27 16:29:49 [INFO] 执行成功: update_list
+2024-12-27 16:29:49 [INFO] 开始执行: update_list
+2024-12-27 16:29:49 [INFO] 执行成功: update_list
+2024-12-27 16:29:50 [INFO] 开始执行: save_data
+2024-12-27 16:29:50 [INFO] 数据保存成功
+2024-12-27 16:29:50 [INFO] 执行成功: save_data
+2024-12-27 16:29:50 [INFO] 开始执行: update_list
+2024-12-27 16:29:50 [INFO] 执行成功: update_list
+2024-12-27 16:29:52 [INFO] 开始执行: save_data
+2024-12-27 16:29:52 [INFO] 数据保存成功
+2024-12-27 16:29:52 [INFO] 执行成功: save_data
+2024-12-27 16:29:52 [INFO] 开始执行: update_list
+2024-12-27 16:29:52 [INFO] 执行成功: update_list
+2024-12-27 16:29:52 [INFO] 开始执行: save_data
+2024-12-27 16:29:52 [INFO] 数据保存成功
+2024-12-27 16:29:52 [INFO] 执行成功: save_data
+2024-12-27 16:29:52 [INFO] 开始执行: update_list
+2024-12-27 16:29:52 [INFO] 执行成功: update_list
+2024-12-27 16:29:53 [INFO] 开始执行: save_data
+2024-12-27 16:29:53 [INFO] 数据保存成功
+2024-12-27 16:29:53 [INFO] 执行成功: save_data
+2024-12-27 16:29:53 [INFO] 开始执行: update_list
+2024-12-27 16:29:53 [INFO] 执行成功: update_list
+2024-12-27 16:30:00 [INFO] 开始执行: update_list
+2024-12-27 16:30:00 [INFO] 执行成功: update_list
+2024-12-27 16:30:00 [INFO] 开始执行: update_list
+2024-12-27 16:30:00 [INFO] 执行成功: update_list
+2024-12-27 16:30:07 [INFO] 开始执行: update_list
+2024-12-27 16:30:07 [INFO] 执行成功: update_list
+2024-12-27 16:30:07 [INFO] 开始执行: update_list
+2024-12-27 16:30:07 [INFO] 执行成功: update_list
+2024-12-27 16:30:10 [INFO] 开始执行: save_data
+2024-12-27 16:30:10 [INFO] 数据保存成功
+2024-12-27 16:30:10 [INFO] 执行成功: save_data
+2024-12-27 16:30:10 [INFO] 关闭目标管理器
+2024-12-27 16:39:23 [INFO] 启动目标管理器
+2024-12-27 16:39:23 [INFO] 开始执行: load_data
+2024-12-27 16:39:23 [INFO] 成功加载数据
+2024-12-27 16:39:23 [INFO] 执行成功: load_data
+2024-12-27 16:39:23 [INFO] 开始执行: update_list
+2024-12-27 16:39:23 [INFO] 执行成功: update_list
+2024-12-27 16:39:23 [INFO] 启动目标管理器
+2024-12-27 16:39:32 [INFO] 开始执行: update_list
+2024-12-27 16:39:32 [INFO] 执行成功: update_list
+2024-12-27 16:39:32 [INFO] 开始执行: update_list
+2024-12-27 16:39:32 [INFO] 执行成功: update_list
+2024-12-27 16:39:44 [INFO] 开始执行: update_list
+2024-12-27 16:39:44 [INFO] 执行成功: update_list
+2024-12-27 16:39:44 [INFO] 开始执行: update_list
+2024-12-27 16:39:44 [INFO] 执行成功: update_list
+2024-12-27 16:39:47 [INFO] 开始执行: save_data
+2024-12-27 16:39:47 [INFO] 数据保存成功
+2024-12-27 16:39:47 [INFO] 执行成功: save_data
+2024-12-27 16:39:47 [INFO] 开始执行: update_list
+2024-12-27 16:39:47 [INFO] 执行成功: update_list
+2024-12-27 16:39:51 [INFO] 开始执行: update_list
+2024-12-27 16:39:51 [INFO] 执行成功: update_list
+2024-12-27 16:39:51 [INFO] 开始执行: update_list
+2024-12-27 16:39:51 [INFO] 执行成功: update_list
+2024-12-27 16:39:54 [INFO] 开始执行: save_data
+2024-12-27 16:39:54 [INFO] 数据保存成功
+2024-12-27 16:39:54 [INFO] 执行成功: save_data
+2024-12-27 16:39:54 [INFO] 开始执行: update_list
+2024-12-27 16:39:54 [INFO] 执行成功: update_list
+2024-12-27 16:39:56 [INFO] 开始执行: save_data
+2024-12-27 16:39:56 [INFO] 数据保存成功
+2024-12-27 16:39:56 [INFO] 执行成功: save_data
+2024-12-27 16:39:56 [INFO] 开始执行: update_list
+2024-12-27 16:39:56 [INFO] 执行成功: update_list
+2024-12-27 16:39:58 [INFO] 开始执行: update_list
+2024-12-27 16:39:58 [INFO] 执行成功: update_list
+2024-12-27 16:39:58 [INFO] 开始执行: update_list
+2024-12-27 16:39:58 [INFO] 执行成功: update_list
+2024-12-27 16:40:01 [INFO] 开始执行: save_data
+2024-12-27 16:40:01 [INFO] 数据保存成功
+2024-12-27 16:40:01 [INFO] 执行成功: save_data
+2024-12-27 16:40:01 [INFO] 开始执行: update_list
+2024-12-27 16:40:01 [INFO] 执行成功: update_list
+2024-12-27 16:40:07 [INFO] 开始执行: update_list
+2024-12-27 16:40:07 [INFO] 执行成功: update_list
+2024-12-27 16:40:07 [INFO] 开始执行: update_list
+2024-12-27 16:40:07 [INFO] 执行成功: update_list
+2024-12-27 16:40:13 [INFO] 开始执行: update_list
+2024-12-27 16:40:13 [INFO] 执行成功: update_list
+2024-12-27 16:40:13 [INFO] 开始执行: update_list
+2024-12-27 16:40:13 [INFO] 执行成功: update_list
+2024-12-27 16:40:19 [INFO] 开始执行: add_goal
+2024-12-27 16:40:19 [INFO] 准备添加目标: 读书计划 (优先级: low)
+2024-12-27 16:40:19 [INFO] 开始执行: save_data
+2024-12-27 16:40:19 [INFO] 数据保存成功
+2024-12-27 16:40:19 [INFO] 执行成功: save_data
+2024-12-27 16:40:19 [INFO] 开始执行: update_list
+2024-12-27 16:40:19 [INFO] 执行成功: update_list
+2024-12-27 16:40:19 [INFO] 添加目标成功: [weekly] 读书计划 (优先级: low)
+2024-12-27 16:40:19 [INFO] 执行成功: add_goal
+2024-12-27 16:40:20 [INFO] 开始执行: update_list
+2024-12-27 16:40:20 [INFO] 执行成功: update_list
+2024-12-27 16:40:20 [INFO] 开始执行: update_list
+2024-12-27 16:40:20 [INFO] 执行成功: update_list
+2024-12-27 16:40:27 [INFO] 开始执行: update_list
+2024-12-27 16:40:27 [INFO] 执行成功: update_list
+2024-12-27 16:40:27 [INFO] 开始执行: update_list
+2024-12-27 16:40:27 [INFO] 执行成功: update_list
+2024-12-27 16:40:28 [INFO] 开始执行: save_data
+2024-12-27 16:40:28 [INFO] 数据保存成功
+2024-12-27 16:40:28 [INFO] 执行成功: save_data
+2024-12-27 16:40:28 [INFO] 关闭目标管理器
+2024-12-27 16:42:55 [INFO] 启动目标管理器
+2024-12-27 16:42:55 [INFO] 开始执行: load_data
+2024-12-27 16:42:55 [INFO] 成功加载数据
+2024-12-27 16:42:55 [INFO] 执行成功: load_data
+2024-12-27 16:42:55 [INFO] 开始执行: update_list
+2024-12-27 16:42:55 [INFO] 执行成功: update_list
+2024-12-27 16:42:55 [INFO] 启动目标管理器
+2024-12-27 16:43:00 [INFO] 开始执行: save_data
+2024-12-27 16:43:00 [INFO] 数据保存成功
+2024-12-27 16:43:00 [INFO] 执行成功: save_data
+2024-12-27 16:43:00 [INFO] 关闭目标管理器
+2024-12-27 16:46:02 [INFO] 启动目标管理器
+2024-12-27 16:46:02 [INFO] 开始执行: load_data
+2024-12-27 16:46:02 [INFO] 成功加载数据
+2024-12-27 16:46:02 [INFO] 执行成功: load_data
+2024-12-27 16:46:02 [INFO] 开始执行: update_list
+2024-12-27 16:46:02 [INFO] 执行成功: update_list
+2024-12-27 16:46:02 [INFO] 启动目标管理器
+2024-12-27 16:46:09 [INFO] 开始执行: update_list
+2024-12-27 16:46:09 [INFO] 执行成功: update_list
+2024-12-27 16:46:09 [INFO] 开始执行: update_list
+2024-12-27 16:46:09 [INFO] 执行成功: update_list
+2024-12-27 16:46:16 [INFO] 开始执行: update_list
+2024-12-27 16:46:16 [INFO] 执行成功: update_list
+2024-12-27 16:46:16 [INFO] 开始执行: update_list
+2024-12-27 16:46:16 [INFO] 执行成功: update_list
+2024-12-27 16:46:18 [INFO] 开始执行: add_goal
+2024-12-27 16:46:18 [INFO] 准备添加目标: 1 (优先级: low)
+2024-12-27 16:46:18 [INFO] 开始执行: save_data
+2024-12-27 16:46:18 [INFO] 数据保存成功
+2024-12-27 16:46:18 [INFO] 执行成功: save_data
+2024-12-27 16:46:18 [INFO] 开始执行: update_list
+2024-12-27 16:46:18 [INFO] 执行成功: update_list
+2024-12-27 16:46:18 [INFO] 添加目标成功: [weekly] 1 (优先级: low)
+2024-12-27 16:46:18 [INFO] 执行成功: add_goal
+2024-12-27 16:46:20 [INFO] 开始执行: add_goal
+2024-12-27 16:46:20 [INFO] 准备添加目标: 2 (优先级: low)
+2024-12-27 16:46:20 [INFO] 开始执行: save_data
+2024-12-27 16:46:20 [INFO] 数据保存成功
+2024-12-27 16:46:20 [INFO] 执行成功: save_data
+2024-12-27 16:46:20 [INFO] 开始执行: update_list
+2024-12-27 16:46:20 [INFO] 执行成功: update_list
+2024-12-27 16:46:20 [INFO] 添加目标成功: [weekly] 2 (优先级: low)
+2024-12-27 16:46:20 [INFO] 执行成功: add_goal
+2024-12-27 16:46:22 [INFO] 开始执行: update_list
+2024-12-27 16:46:22 [INFO] 执行成功: update_list
+2024-12-27 16:46:22 [INFO] 开始执行: update_list
+2024-12-27 16:46:22 [INFO] 执行成功: update_list
+2024-12-27 16:46:24 [INFO] 开始执行: add_goal
+2024-12-27 16:46:24 [INFO] 准备添加目标: 3 (优先级: low)
+2024-12-27 16:46:24 [INFO] 开始执行: save_data
+2024-12-27 16:46:24 [INFO] 数据保存成功
+2024-12-27 16:46:24 [INFO] 执行成功: save_data
+2024-12-27 16:46:24 [INFO] 开始执行: update_list
+2024-12-27 16:46:24 [INFO] 执行成功: update_list
+2024-12-27 16:46:24 [INFO] 添加目标成功: [weekly] 3 (优先级: low)
+2024-12-27 16:46:24 [INFO] 执行成功: add_goal
+2024-12-27 16:46:27 [INFO] 开始执行: add_goal
+2024-12-27 16:46:27 [INFO] 准备添加目标: 4 (优先级: low)
+2024-12-27 16:46:27 [INFO] 开始执行: save_data
+2024-12-27 16:46:27 [INFO] 数据保存成功
+2024-12-27 16:46:27 [INFO] 执行成功: save_data
+2024-12-27 16:46:27 [INFO] 开始执行: update_list
+2024-12-27 16:46:27 [INFO] 执行成功: update_list
+2024-12-27 16:46:27 [INFO] 添加目标成功: [weekly] 4 (优先级: low)
+2024-12-27 16:46:27 [INFO] 执行成功: add_goal
+2024-12-27 16:46:29 [INFO] 开始执行: update_list
+2024-12-27 16:46:29 [INFO] 执行成功: update_list
+2024-12-27 16:46:29 [INFO] 开始执行: update_list
+2024-12-27 16:46:29 [INFO] 执行成功: update_list
+2024-12-27 16:46:31 [INFO] 开始执行: add_goal
+2024-12-27 16:46:31 [INFO] 准备添加目标: 5 (优先级: low)
+2024-12-27 16:46:31 [INFO] 开始执行: save_data
+2024-12-27 16:46:31 [INFO] 数据保存成功
+2024-12-27 16:46:31 [INFO] 执行成功: save_data
+2024-12-27 16:46:31 [INFO] 开始执行: update_list
+2024-12-27 16:46:31 [INFO] 执行成功: update_list
+2024-12-27 16:46:31 [INFO] 添加目标成功: [weekly] 5 (优先级: low)
+2024-12-27 16:46:31 [INFO] 执行成功: add_goal
+2024-12-27 16:46:34 [INFO] 开始执行: add_goal
+2024-12-27 16:46:34 [INFO] 准备添加目标: 6 (优先级: low)
+2024-12-27 16:46:34 [INFO] 开始执行: save_data
+2024-12-27 16:46:34 [INFO] 数据保存成功
+2024-12-27 16:46:34 [INFO] 执行成功: save_data
+2024-12-27 16:46:34 [INFO] 开始执行: update_list
+2024-12-27 16:46:34 [INFO] 执行成功: update_list
+2024-12-27 16:46:34 [INFO] 添加目标成功: [weekly] 6 (优先级: low)
+2024-12-27 16:46:34 [INFO] 执行成功: add_goal
+2024-12-27 16:46:38 [INFO] 开始执行: update_list
+2024-12-27 16:46:38 [INFO] 执行成功: update_list
+2024-12-27 16:46:38 [INFO] 开始执行: update_list
+2024-12-27 16:46:38 [INFO] 执行成功: update_list
+2024-12-27 16:46:41 [INFO] 开始执行: add_goal
+2024-12-27 16:46:41 [INFO] 准备添加目标: 7 (优先级: low)
+2024-12-27 16:46:41 [INFO] 开始执行: save_data
+2024-12-27 16:46:41 [INFO] 数据保存成功
+2024-12-27 16:46:41 [INFO] 执行成功: save_data
+2024-12-27 16:46:41 [INFO] 开始执行: update_list
+2024-12-27 16:46:41 [INFO] 执行成功: update_list
+2024-12-27 16:46:41 [INFO] 添加目标成功: [weekly] 7 (优先级: low)
+2024-12-27 16:46:41 [INFO] 执行成功: add_goal
+2024-12-27 16:46:45 [INFO] 开始执行: update_list
+2024-12-27 16:46:45 [INFO] 执行成功: update_list
+2024-12-27 16:46:45 [INFO] 开始执行: update_list
+2024-12-27 16:46:45 [INFO] 执行成功: update_list
+2024-12-27 16:46:49 [INFO] 开始执行: save_data
+2024-12-27 16:46:49 [INFO] 数据保存成功
+2024-12-27 16:46:49 [INFO] 执行成功: save_data
+2024-12-27 16:46:49 [INFO] 开始执行: update_list
+2024-12-27 16:46:49 [INFO] 执行成功: update_list
+2024-12-27 16:46:52 [INFO] 开始执行: update_list
+2024-12-27 16:46:52 [INFO] 执行成功: update_list
+2024-12-27 16:46:52 [INFO] 开始执行: update_list
+2024-12-27 16:46:52 [INFO] 执行成功: update_list
+2024-12-27 16:46:55 [INFO] 开始执行: save_data
+2024-12-27 16:46:55 [INFO] 数据保存成功
+2024-12-27 16:46:55 [INFO] 执行成功: save_data
+2024-12-27 16:46:55 [INFO] 开始执行: update_list
+2024-12-27 16:46:55 [INFO] 执行成功: update_list
+2024-12-27 16:46:58 [INFO] 开始执行: save_data
+2024-12-27 16:46:58 [INFO] 数据保存成功
+2024-12-27 16:46:58 [INFO] 执行成功: save_data
+2024-12-27 16:46:58 [INFO] 开始执行: update_list
+2024-12-27 16:46:58 [INFO] 执行成功: update_list
+2024-12-27 16:46:59 [INFO] 开始执行: update_list
+2024-12-27 16:46:59 [INFO] 执行成功: update_list
+2024-12-27 16:46:59 [INFO] 开始执行: update_list
+2024-12-27 16:46:59 [INFO] 执行成功: update_list
+2024-12-27 16:47:01 [INFO] 开始执行: save_data
+2024-12-27 16:47:01 [INFO] 数据保存成功
+2024-12-27 16:47:01 [INFO] 执行成功: save_data
+2024-12-27 16:47:01 [INFO] 开始执行: update_list
+2024-12-27 16:47:01 [INFO] 执行成功: update_list
+2024-12-27 16:47:04 [INFO] 开始执行: save_data
+2024-12-27 16:47:04 [INFO] 数据保存成功
+2024-12-27 16:47:04 [INFO] 执行成功: save_data
+2024-12-27 16:47:04 [INFO] 开始执行: update_list
+2024-12-27 16:47:04 [INFO] 执行成功: update_list
+2024-12-27 16:47:06 [INFO] 开始执行: update_list
+2024-12-27 16:47:06 [INFO] 执行成功: update_list
+2024-12-27 16:47:06 [INFO] 开始执行: update_list
+2024-12-27 16:47:06 [INFO] 执行成功: update_list
+2024-12-27 16:47:09 [INFO] 开始执行: save_data
+2024-12-27 16:47:09 [INFO] 数据保存成功
+2024-12-27 16:47:09 [INFO] 执行成功: save_data
+2024-12-27 16:47:09 [INFO] 开始执行: update_list
+2024-12-27 16:47:09 [INFO] 执行成功: update_list
+2024-12-27 16:47:12 [INFO] 开始执行: save_data
+2024-12-27 16:47:12 [INFO] 数据保存成功
+2024-12-27 16:47:12 [INFO] 执行成功: save_data
+2024-12-27 16:47:12 [INFO] 开始执行: update_list
+2024-12-27 16:47:12 [INFO] 执行成功: update_list
+2024-12-27 16:47:13 [INFO] 开始执行: update_list
+2024-12-27 16:47:13 [INFO] 执行成功: update_list
+2024-12-27 16:47:13 [INFO] 开始执行: update_list
+2024-12-27 16:47:13 [INFO] 执行成功: update_list
+2024-12-27 16:47:25 [INFO] 用户中断程序
+2024-12-27 16:47:25 [INFO] 关闭目标管理器
+2024-12-27 18:04:09 [INFO] 启动目标管理器
+2024-12-27 18:04:09 [INFO] 开始执行: load_data
+2024-12-27 18:04:09 [INFO] 成功加载数据
+2024-12-27 18:04:09 [INFO] 执行成功: load_data
+2024-12-27 18:04:10 [INFO] 开始执行: update_list
+2024-12-27 18:04:10 [INFO] 执行成功: update_list
+2024-12-27 18:04:10 [INFO] 启动目标管理器
+2024-12-27 18:04:33 [INFO] 开始执行: update_list
+2024-12-27 18:04:33 [INFO] 执行成功: update_list
+2024-12-27 18:04:33 [INFO] 开始执行: update_list
+2024-12-27 18:04:33 [INFO] 执行成功: update_list
+2024-12-27 18:04:57 [INFO] 开始执行: update_list
+2024-12-27 18:04:57 [INFO] 执行成功: update_list
+2024-12-27 18:04:57 [INFO] 开始执行: update_list
+2024-12-27 18:04:57 [INFO] 执行成功: update_list
+2024-12-27 18:05:02 [INFO] 开始执行: add_goal
+2024-12-27 18:05:02 [INFO] 准备添加目标: 下学期课程选择 (优先级: low)
+2024-12-27 18:05:02 [INFO] 开始执行: save_data
+2024-12-27 18:05:02 [INFO] 数据保存成功
+2024-12-27 18:05:02 [INFO] 执行成功: save_data
+2024-12-27 18:05:02 [INFO] 开始执行: update_list
+2024-12-27 18:05:02 [INFO] 执行成功: update_list
+2024-12-27 18:05:02 [INFO] 添加目标成功: [weekly] 下学期课程选择 (优先级: low)
+2024-12-27 18:05:02 [INFO] 执行成功: add_goal
+2024-12-27 18:05:07 [INFO] 开始执行: update_list
+2024-12-27 18:05:07 [INFO] 执行成功: update_list
+2024-12-27 18:05:07 [INFO] 开始执行: update_list
+2024-12-27 18:05:08 [INFO] 执行成功: update_list
+2024-12-27 18:05:14 [INFO] 开始执行: update_list
+2024-12-27 18:05:14 [INFO] 执行成功: update_list
+2024-12-27 18:05:14 [INFO] 开始执行: update_list
+2024-12-27 18:05:14 [INFO] 执行成功: update_list
+2024-12-27 18:05:17 [INFO] 开始执行: add_goal
+2024-12-27 18:05:17 [INFO] 准备添加目标: 创业管理个人作业提交 (优先级: low)
+2024-12-27 18:05:17 [INFO] 开始执行: save_data
+2024-12-27 18:05:17 [INFO] 数据保存成功
+2024-12-27 18:05:17 [INFO] 执行成功: save_data
+2024-12-27 18:05:17 [INFO] 开始执行: update_list
+2024-12-27 18:05:17 [INFO] 执行成功: update_list
+2024-12-27 18:05:17 [INFO] 添加目标成功: [weekly] 创业管理个人作业提交 (优先级: low)
+2024-12-27 18:05:17 [INFO] 执行成功: add_goal
+2024-12-27 18:05:22 [INFO] 开始执行: update_list
+2024-12-27 18:05:22 [INFO] 执行成功: update_list
+2024-12-27 18:05:22 [INFO] 开始执行: update_list
+2024-12-27 18:05:22 [INFO] 执行成功: update_list
+2024-12-27 18:05:26 [INFO] 开始执行: add_goal
+2024-12-27 18:05:26 [INFO] 准备添加目标: 市场调研个人作业提交 (优先级: low)
+2024-12-27 18:05:26 [INFO] 开始执行: save_data
+2024-12-27 18:05:26 [INFO] 数据保存成功
+2024-12-27 18:05:26 [INFO] 执行成功: save_data
+2024-12-27 18:05:26 [INFO] 开始执行: update_list
+2024-12-27 18:05:26 [INFO] 执行成功: update_list
+2024-12-27 18:05:26 [INFO] 添加目标成功: [weekly] 市场调研个人作业提交 (优先级: low)
+2024-12-27 18:05:26 [INFO] 执行成功: add_goal
+2024-12-27 18:05:31 [INFO] 开始执行: update_list
+2024-12-27 18:05:31 [INFO] 执行成功: update_list
+2024-12-27 18:05:31 [INFO] 开始执行: update_list
+2024-12-27 18:05:31 [INFO] 执行成功: update_list
+2024-12-27 18:05:34 [INFO] 开始执行: add_goal
+2024-12-27 18:05:34 [INFO] 准备添加目标: myshell上架 (优先级: low)
+2024-12-27 18:05:34 [INFO] 开始执行: save_data
+2024-12-27 18:05:34 [INFO] 数据保存成功
+2024-12-27 18:05:34 [INFO] 执行成功: save_data
+2024-12-27 18:05:34 [INFO] 开始执行: update_list
+2024-12-27 18:05:34 [INFO] 执行成功: update_list
+2024-12-27 18:05:34 [INFO] 添加目标成功: [weekly] myshell上架 (优先级: low)
+2024-12-27 18:05:34 [INFO] 执行成功: add_goal
+2024-12-27 18:05:39 [INFO] 开始执行: update_list
+2024-12-27 18:05:39 [INFO] 执行成功: update_list
+2024-12-27 18:05:39 [INFO] 开始执行: update_list
+2024-12-27 18:05:39 [INFO] 执行成功: update_list
+2024-12-27 18:05:42 [INFO] 开始执行: add_goal
+2024-12-27 18:05:42 [INFO] 准备添加目标: 完成透明数据系统 (优先级: low)
+2024-12-27 18:05:42 [INFO] 开始执行: save_data
+2024-12-27 18:05:42 [INFO] 数据保存成功
+2024-12-27 18:05:42 [INFO] 执行成功: save_data
+2024-12-27 18:05:42 [INFO] 开始执行: update_list
+2024-12-27 18:05:42 [INFO] 执行成功: update_list
+2024-12-27 18:05:42 [INFO] 添加目标成功: [weekly] 完成透明数据系统 (优先级: low)
+2024-12-27 18:05:42 [INFO] 执行成功: add_goal
+2024-12-27 18:05:47 [INFO] 开始执行: update_list
+2024-12-27 18:05:47 [INFO] 执行成功: update_list
+2024-12-27 18:05:47 [INFO] 开始执行: update_list
+2024-12-27 18:05:47 [INFO] 执行成功: update_list
+2024-12-27 18:05:51 [INFO] 开始执行: add_goal
+2024-12-27 18:05:51 [INFO] 准备添加目标: AI宣传视频 (优先级: low)
+2024-12-27 18:05:51 [INFO] 开始执行: save_data
+2024-12-27 18:05:51 [INFO] 数据保存成功
+2024-12-27 18:05:51 [INFO] 执行成功: save_data
+2024-12-27 18:05:51 [INFO] 开始执行: update_list
+2024-12-27 18:05:51 [INFO] 执行成功: update_list
+2024-12-27 18:05:51 [INFO] 添加目标成功: [weekly] AI宣传视频 (优先级: low)
+2024-12-27 18:05:51 [INFO] 执行成功: add_goal
+2024-12-27 18:05:56 [INFO] 开始执行: update_list
+2024-12-27 18:05:56 [INFO] 执行成功: update_list
+2024-12-27 18:05:56 [INFO] 开始执行: update_list
+2024-12-27 18:05:56 [INFO] 执行成功: update_list
+2024-12-27 18:06:04 [INFO] 开始执行: update_list
+2024-12-27 18:06:04 [INFO] 执行成功: update_list
+2024-12-27 18:06:04 [INFO] 开始执行: update_list
+2024-12-27 18:06:04 [INFO] 执行成功: update_list
+2024-12-27 18:06:08 [INFO] 开始执行: add_goal
+2024-12-27 18:06:08 [INFO] 准备添加目标: comfyui主要工作流梳理 (优先级: low)
+2024-12-27 18:06:08 [INFO] 开始执行: save_data
+2024-12-27 18:06:08 [INFO] 数据保存成功
+2024-12-27 18:06:08 [INFO] 执行成功: save_data
+2024-12-27 18:06:08 [INFO] 开始执行: update_list
+2024-12-27 18:06:08 [INFO] 执行成功: update_list
+2024-12-27 18:06:08 [INFO] 添加目标成功: [weekly] comfyui主要工作流梳理 (优先级: low)
+2024-12-27 18:06:08 [INFO] 执行成功: add_goal
+2024-12-27 18:06:15 [INFO] 开始执行: update_list
+2024-12-27 18:06:15 [INFO] 执行成功: update_list
+2024-12-27 18:06:15 [INFO] 开始执行: update_list
+2024-12-27 18:06:15 [INFO] 执行成功: update_list
+2024-12-27 18:06:18 [INFO] 开始执行: add_goal
+2024-12-27 18:06:18 [INFO] 准备添加目标: 市场调研小组作业 (优先级: low)
+2024-12-27 18:06:18 [INFO] 开始执行: save_data
+2024-12-27 18:06:18 [INFO] 数据保存成功
+2024-12-27 18:06:18 [INFO] 执行成功: save_data
+2024-12-27 18:06:18 [INFO] 开始执行: update_list
+2024-12-27 18:06:18 [INFO] 执行成功: update_list
+2024-12-27 18:06:18 [INFO] 添加目标成功: [weekly] 市场调研小组作业 (优先级: low)
+2024-12-27 18:06:18 [INFO] 执行成功: add_goal
+2024-12-27 18:06:22 [INFO] 开始执行: update_list
+2024-12-27 18:06:22 [INFO] 执行成功: update_list
+2024-12-27 18:06:22 [INFO] 开始执行: update_list
+2024-12-27 18:06:22 [INFO] 执行成功: update_list
+2024-12-27 18:06:27 [INFO] 开始执行: add_goal
+2024-12-27 18:06:27 [INFO] 准备添加目标: 视频主题和模板优化 (优先级: low)
+2024-12-27 18:06:27 [INFO] 开始执行: save_data
+2024-12-27 18:06:27 [INFO] 数据保存成功
+2024-12-27 18:06:27 [INFO] 执行成功: save_data
+2024-12-27 18:06:27 [INFO] 开始执行: update_list
+2024-12-27 18:06:27 [INFO] 执行成功: update_list
+2024-12-27 18:06:27 [INFO] 添加目标成功: [weekly] 视频主题和模板优化 (优先级: low)
+2024-12-27 18:06:27 [INFO] 执行成功: add_goal
+2024-12-27 18:06:29 [INFO] 开始执行: update_list
+2024-12-27 18:06:29 [INFO] 执行成功: update_list
+2024-12-27 18:06:29 [INFO] 开始执行: update_list
+2024-12-27 18:06:29 [INFO] 执行成功: update_list
+2024-12-27 18:35:46 [INFO] 开始执行: update_list
+2024-12-27 18:35:46 [INFO] 执行成功: update_list
+2024-12-27 18:35:46 [INFO] 开始执行: update_list
+2024-12-27 18:35:46 [INFO] 执行成功: update_list
+2024-12-27 18:35:47 [INFO] 切换到本月目标列表
+2024-12-27 18:35:47 [INFO] 开始执行: update_list
+2024-12-27 18:35:48 [INFO] 执行成功: update_list
+2024-12-27 18:35:48 [INFO] 切换到本年目标列表
+2024-12-27 18:35:48 [INFO] 开始执行: update_list
+2024-12-27 18:35:48 [INFO] 执行成功: update_list
+2024-12-27 18:35:49 [INFO] 切换到本周目标列表
+2024-12-27 18:35:49 [INFO] 开始执行: update_list
+2024-12-27 18:35:49 [INFO] 执行成功: update_list
+2024-12-27 20:35:31 [INFO] 启动目标管理器
+2024-12-27 20:35:31 [INFO] 开始执行: load_data
+2024-12-27 20:35:31 [INFO] 成功加载数据
+2024-12-27 20:35:31 [INFO] 执行成功: load_data
+2024-12-27 20:35:31 [INFO] 开始执行: update_list
+2024-12-27 20:35:31 [INFO] 执行成功: update_list
+2024-12-27 20:35:31 [INFO] 启动目标管理器
+2024-12-27 20:35:38 [INFO] 开始执行: update_list
+2024-12-27 20:35:38 [INFO] 执行成功: update_list
+2024-12-27 20:35:38 [INFO] 开始执行: update_list
+2024-12-27 20:35:38 [INFO] 执行成功: update_list
+2024-12-27 20:35:42 [INFO] 开始执行: save_data
+2024-12-27 20:35:42 [INFO] 数据保存成功
+2024-12-27 20:35:42 [INFO] 执行成功: save_data
+2024-12-27 20:35:42 [INFO] 开始执行: update_list
+2024-12-27 20:35:42 [INFO] 执行成功: update_list
+2024-12-27 20:35:44 [INFO] 开始执行: update_list
+2024-12-27 20:35:44 [INFO] 执行成功: update_list
+2024-12-27 20:35:44 [INFO] 开始执行: update_list
+2024-12-27 20:35:44 [INFO] 执行成功: update_list
+2024-12-27 20:35:50 [INFO] 开始执行: save_data
+2024-12-27 20:35:50 [INFO] 数据保存成功
+2024-12-27 20:35:50 [INFO] 执行成功: save_data
+2024-12-27 20:35:50 [INFO] 开始执行: update_list
+2024-12-27 20:35:50 [INFO] 执行成功: update_list
+2024-12-27 20:35:52 [INFO] 开始执行: update_list
+2024-12-27 20:35:52 [INFO] 执行成功: update_list
+2024-12-27 20:35:52 [INFO] 开始执行: update_list
+2024-12-27 20:35:52 [INFO] 执行成功: update_list
+2024-12-27 20:35:54 [INFO] 开始执行: save_data
+2024-12-27 20:35:54 [INFO] 数据保存成功
+2024-12-27 20:35:54 [INFO] 执行成功: save_data
+2024-12-27 20:35:54 [INFO] 开始执行: update_list
+2024-12-27 20:35:54 [INFO] 执行成功: update_list
+2024-12-27 20:35:58 [INFO] 开始执行: update_list
+2024-12-27 20:35:58 [INFO] 执行成功: update_list
+2024-12-27 20:35:58 [INFO] 开始执行: update_list
+2024-12-27 20:35:58 [INFO] 执行成功: update_list
+2024-12-27 20:36:00 [INFO] 开始执行: save_data
+2024-12-27 20:36:00 [INFO] 数据保存成功
+2024-12-27 20:36:00 [INFO] 执行成功: save_data
+2024-12-27 20:36:00 [INFO] 开始执行: update_list
+2024-12-27 20:36:00 [INFO] 执行成功: update_list
+2024-12-27 20:36:05 [INFO] 开始执行: update_list
+2024-12-27 20:36:05 [INFO] 执行成功: update_list
+2024-12-27 20:36:05 [INFO] 开始执行: update_list
+2024-12-27 20:36:05 [INFO] 执行成功: update_list
+2024-12-27 20:36:09 [INFO] 开始执行: save_data
+2024-12-27 20:36:09 [INFO] 数据保存成功
+2024-12-27 20:36:09 [INFO] 执行成功: save_data
+2024-12-27 20:36:09 [INFO] 开始执行: update_list
+2024-12-27 20:36:09 [INFO] 执行成功: update_list
+2024-12-27 20:36:13 [INFO] 开始执行: update_list
+2024-12-27 20:36:13 [INFO] 执行成功: update_list
+2024-12-27 20:36:13 [INFO] 开始执行: update_list
+2024-12-27 20:36:13 [INFO] 执行成功: update_list
+2024-12-27 20:36:15 [INFO] 开始执行: save_data
+2024-12-27 20:36:15 [INFO] 数据保存成功
+2024-12-27 20:36:15 [INFO] 执行成功: save_data
+2024-12-27 20:36:15 [INFO] 开始执行: update_list
+2024-12-27 20:36:15 [INFO] 执行成功: update_list
+2024-12-27 20:36:24 [INFO] 开始执行: update_list
+2024-12-27 20:36:24 [INFO] 执行成功: update_list
+2024-12-27 20:36:24 [INFO] 开始执行: update_list
+2024-12-27 20:36:24 [INFO] 执行成功: update_list
+2024-12-27 20:36:35 [INFO] 开始执行: update_list
+2024-12-27 20:36:35 [INFO] 执行成功: update_list
+2024-12-27 20:36:35 [INFO] 开始执行: update_list
+2024-12-27 20:36:35 [INFO] 执行成功: update_list
+2024-12-27 20:47:42 [INFO] 启动目标管理器
+2024-12-27 20:47:42 [INFO] 开始执行: load_data
+2024-12-27 20:47:42 [INFO] 成功加载数据
+2024-12-27 20:47:42 [INFO] 执行成功: load_data
+2024-12-27 20:47:42 [INFO] 开始执行: update_list
+2024-12-27 20:47:42 [INFO] 执行成功: update_list
+2024-12-27 20:47:42 [INFO] 启动目标管理器
+2024-12-29 10:15:29 [INFO] 启动目标管理器
+2024-12-29 10:15:29 [INFO] 开始执行: load_data
+2024-12-29 10:15:29 [INFO] 成功加载数据
+2024-12-29 10:15:29 [INFO] 执行成功: load_data
+2024-12-29 10:15:29 [INFO] 开始执行: update_list
+2024-12-29 10:15:29 [INFO] 执行成功: update_list
+2024-12-29 10:15:29 [INFO] 启动目标管理器
+2024-12-29 10:20:30 [INFO] 开始执行: update_list
+2024-12-29 10:20:30 [INFO] 执行成功: update_list
+2024-12-29 10:20:30 [INFO] 开始执行: update_list
+2024-12-29 10:20:30 [INFO] 执行成功: update_list
+2024-12-29 10:20:44 [INFO] 开始执行: update_list
+2024-12-29 10:20:44 [INFO] 执行成功: update_list
+2024-12-29 10:20:44 [INFO] 开始执行: update_list
+2024-12-29 10:20:44 [INFO] 执行成功: update_list
+2024-12-29 10:20:46 [INFO] 开始执行: save_data
+2024-12-29 10:20:46 [INFO] 数据保存成功
+2024-12-29 10:20:46 [INFO] 执行成功: save_data
+2024-12-29 10:20:46 [INFO] 开始执行: update_list
+2024-12-29 10:20:46 [INFO] 执行成功: update_list
+2024-12-30 08:37:37 [INFO] 启动目标管理器
+2024-12-30 08:37:37 [INFO] 开始执行: load_data
+2024-12-30 08:37:37 [INFO] 成功加载数据
+2024-12-30 08:37:37 [INFO] 执行成功: load_data
+2024-12-30 08:37:38 [INFO] 开始执行: update_list
+2024-12-30 08:37:38 [INFO] 执行成功: update_list
+2024-12-30 08:37:38 [INFO] 启动目标管理器
+2024-12-30 08:37:38 [INFO] 启动目标管理器
+2024-12-30 08:37:38 [INFO] 开始执行: load_data
+2024-12-30 08:37:38 [INFO] 成功加载数据
+2024-12-30 08:37:38 [INFO] 执行成功: load_data
+2024-12-30 08:37:39 [INFO] 开始执行: update_list
+2024-12-30 08:37:39 [INFO] 执行成功: update_list
+2024-12-30 08:37:39 [INFO] 启动目标管理器
+2024-12-30 08:37:46 [INFO] 开始执行: update_list
+2024-12-30 08:37:46 [INFO] 执行成功: update_list
+2024-12-30 08:37:46 [INFO] 开始执行: update_list
+2024-12-30 08:37:46 [INFO] 执行成功: update_list
+2024-12-30 08:37:51 [INFO] 切换到本月目标列表
+2024-12-30 08:37:51 [INFO] 开始执行: update_list
+2024-12-30 08:37:51 [INFO] 执行成功: update_list
+2024-12-30 08:37:54 [INFO] 开始执行: update_list
+2024-12-30 08:37:54 [INFO] 执行成功: update_list
+2024-12-30 08:37:54 [INFO] 开始执行: update_list
+2024-12-30 08:37:54 [INFO] 执行成功: update_list
+2024-12-30 08:37:55 [INFO] 切换到本年目标列表
+2024-12-30 08:37:55 [INFO] 开始执行: update_list
+2024-12-30 08:37:55 [INFO] 执行成功: update_list
+2024-12-30 08:37:57 [INFO] 切换到本周目标列表
+2024-12-30 08:37:57 [INFO] 开始执行: update_list
+2024-12-30 08:37:57 [INFO] 执行成功: update_list
+2024-12-30 08:39:14 [INFO] 开始执行: update_list
+2024-12-30 08:39:14 [INFO] 执行成功: update_list
+2024-12-30 08:39:14 [INFO] 开始执行: update_list
+2024-12-30 08:39:14 [INFO] 执行成功: update_list
+2024-12-30 08:39:21 [INFO] 开始执行: update_list
+2024-12-30 08:39:21 [INFO] 执行成功: update_list
+2024-12-30 08:39:21 [INFO] 开始执行: update_list
+2024-12-30 08:39:21 [INFO] 执行成功: update_list
+2024-12-30 08:39:28 [INFO] 开始执行: update_list
+2024-12-30 08:39:28 [INFO] 执行成功: update_list
+2024-12-30 08:39:28 [INFO] 开始执行: update_list
+2024-12-30 08:39:28 [INFO] 执行成功: update_list
+2024-12-30 08:43:45 [INFO] 开始执行: update_list
+2024-12-30 08:43:45 [INFO] 执行成功: update_list
+2024-12-30 08:43:45 [INFO] 开始执行: update_list
+2024-12-30 08:43:45 [INFO] 执行成功: update_list
+2024-12-30 08:43:57 [INFO] 开始执行: update_list
+2024-12-30 08:43:57 [INFO] 执行成功: update_list
+2024-12-30 08:43:57 [INFO] 开始执行: update_list
+2024-12-30 08:43:57 [INFO] 执行成功: update_list
+2024-12-30 08:44:04 [INFO] 开始执行: update_list
+2024-12-30 08:44:04 [INFO] 执行成功: update_list
+2024-12-30 08:44:04 [INFO] 开始执行: update_list
+2024-12-30 08:44:04 [INFO] 执行成功: update_list
+2024-12-30 08:44:13 [INFO] 开始执行: update_list
+2024-12-30 08:44:13 [INFO] 执行成功: update_list
+2024-12-30 08:44:13 [INFO] 开始执行: update_list
+2024-12-30 08:44:13 [INFO] 执行成功: update_list
+2024-12-30 08:44:19 [INFO] 开始执行: update_list
+2024-12-30 08:44:19 [INFO] 执行成功: update_list
+2024-12-30 08:44:19 [INFO] 开始执行: update_list
+2024-12-30 08:44:19 [INFO] 执行成功: update_list
+2024-12-30 08:44:41 [INFO] 开始执行: update_list
+2024-12-30 08:44:41 [INFO] 执行成功: update_list
+2024-12-30 08:44:41 [INFO] 开始执行: update_list
+2024-12-30 08:44:41 [INFO] 执行成功: update_list
+2024-12-30 08:44:54 [INFO] 开始执行: update_list
+2024-12-30 08:44:54 [INFO] 执行成功: update_list
+2024-12-30 08:44:54 [INFO] 开始执行: update_list
+2024-12-30 08:44:54 [INFO] 执行成功: update_list
+2024-12-30 08:44:55 [INFO] 开始执行: save_data
+2024-12-30 08:44:55 [INFO] 数据保存成功
+2024-12-30 08:44:55 [INFO] 执行成功: save_data
+2024-12-30 08:44:55 [INFO] 关闭目标管理器
+2024-12-30 08:47:33 [INFO] 启动目标管理器
+2024-12-30 08:47:33 [INFO] 开始执行: load_data
+2024-12-30 08:47:33 [INFO] 成功加载数据
+2024-12-30 08:47:33 [INFO] 执行成功: load_data
+2024-12-30 08:47:34 [INFO] 开始执行: update_list
+2024-12-30 08:47:34 [INFO] 执行成功: update_list
+2024-12-30 08:47:34 [INFO] 启动目标管理器
+2024-12-30 08:48:01 [INFO] 开始执行: update_list
+2024-12-30 08:48:01 [INFO] 执行成功: update_list
+2024-12-30 08:48:01 [INFO] 开始执行: update_list
+2024-12-30 08:48:01 [INFO] 执行成功: update_list
+2024-12-30 08:48:06 [INFO] 开始执行: update_list
+2024-12-30 08:48:06 [INFO] 执行成功: update_list
+2024-12-30 08:48:06 [INFO] 切换深色主题
+2024-12-30 08:48:07 [INFO] 开始执行: update_list
+2024-12-30 08:48:07 [INFO] 执行成功: update_list
+2024-12-30 08:48:07 [INFO] 开始执行: update_list
+2024-12-30 08:48:07 [INFO] 执行成功: update_list
+2024-12-30 08:48:08 [INFO] 开始执行: update_list
+2024-12-30 08:48:08 [INFO] 执行成功: update_list
+2024-12-30 08:48:08 [INFO] 切换浅色主题
+2024-12-30 08:49:58 [INFO] 开始执行: update_list
+2024-12-30 08:49:58 [INFO] 执行成功: update_list
+2024-12-30 08:49:58 [INFO] 开始执行: update_list
+2024-12-30 08:49:58 [INFO] 执行成功: update_list
+2024-12-30 08:50:02 [INFO] 开始执行: save_data
+2024-12-30 08:50:02 [INFO] 数据保存成功
+2024-12-30 08:50:02 [INFO] 执行成功: save_data
+2024-12-30 08:50:02 [INFO] 关闭目标管理器
+2024-12-30 08:50:07 [INFO] 启动目标管理器
+2024-12-30 08:50:07 [INFO] 开始执行: load_data
+2024-12-30 08:50:07 [INFO] 成功加载数据
+2024-12-30 08:50:07 [INFO] 执行成功: load_data
+2024-12-30 08:50:08 [INFO] 开始执行: update_list
+2024-12-30 08:50:08 [INFO] 执行成功: update_list
+2024-12-30 08:50:08 [INFO] 启动目标管理器
+2024-12-30 08:50:15 [INFO] 开始执行: update_list
+2024-12-30 08:50:15 [INFO] 执行成功: update_list
+2024-12-30 08:50:15 [INFO] 开始执行: update_list
+2024-12-30 08:50:15 [INFO] 执行成功: update_list
+2024-12-30 08:50:22 [INFO] 开始执行: update_list
+2024-12-30 08:50:22 [INFO] 执行成功: update_list
+2024-12-30 08:50:22 [INFO] 开始执行: update_list
+2024-12-30 08:50:22 [INFO] 执行成功: update_list
+2024-12-30 08:51:09 [INFO] 开始执行: update_list
+2024-12-30 08:51:09 [INFO] 执行成功: update_list
+2024-12-30 08:51:09 [INFO] 开始执行: update_list
+2024-12-30 08:51:09 [INFO] 执行成功: update_list
+2024-12-30 08:51:11 [INFO] 开始执行: save_data
+2024-12-30 08:51:11 [INFO] 数据保存成功
+2024-12-30 08:51:11 [INFO] 执行成功: save_data
+2024-12-30 08:51:11 [INFO] 关闭目标管理器
+2024-12-30 08:53:58 [INFO] 启动目标管理器
+2024-12-30 08:53:58 [INFO] 开始执行: load_data
+2024-12-30 08:53:58 [INFO] 成功加载数据
+2024-12-30 08:53:58 [INFO] 执行成功: load_data
+2024-12-30 08:53:58 [INFO] 开始执行: update_list
+2024-12-30 08:53:58 [INFO] 执行成功: update_list
+2024-12-30 08:53:58 [INFO] 启动目标管理器
+2024-12-30 08:54:07 [INFO] 开始执行: update_list
+2024-12-30 08:54:07 [INFO] 执行成功: update_list
+2024-12-30 08:54:07 [INFO] 开始执行: update_list
+2024-12-30 08:54:07 [INFO] 执行成功: update_list
+2024-12-30 08:54:08 [INFO] 开始执行: save_data
+2024-12-30 08:54:08 [INFO] 数据保存成功
+2024-12-30 08:54:08 [INFO] 执行成功: save_data
+2024-12-30 08:54:08 [INFO] 关闭目标管理器
+2024-12-30 08:54:13 [INFO] 启动目标管理器
+2024-12-30 08:54:13 [INFO] 开始执行: load_data
+2024-12-30 08:54:13 [INFO] 成功加载数据
+2024-12-30 08:54:13 [INFO] 执行成功: load_data
+2024-12-30 08:54:13 [INFO] 开始执行: update_list
+2024-12-30 08:54:13 [INFO] 执行成功: update_list
+2024-12-30 08:54:13 [INFO] 启动目标管理器
+2024-12-30 08:54:20 [INFO] 开始执行: update_list
+2024-12-30 08:54:20 [INFO] 执行成功: update_list
+2024-12-30 08:54:20 [INFO] 开始执行: update_list
+2024-12-30 08:54:20 [INFO] 执行成功: update_list
+2024-12-30 08:54:22 [INFO] 开始执行: save_data
+2024-12-30 08:54:22 [INFO] 数据保存成功
+2024-12-30 08:54:22 [INFO] 执行成功: save_data
+2024-12-30 08:54:22 [INFO] 关闭目标管理器
+2024-12-30 08:54:53 [INFO] 启动目标管理器
+2024-12-30 08:54:53 [INFO] 开始执行: load_data
+2024-12-30 08:54:53 [INFO] 成功加载数据
+2024-12-30 08:54:53 [INFO] 执行成功: load_data
+2024-12-30 08:54:53 [INFO] 开始执行: update_list
+2024-12-30 08:54:53 [INFO] 执行成功: update_list
+2024-12-30 08:54:53 [INFO] 启动目标管理器
+2024-12-30 08:55:00 [INFO] 开始执行: update_list
+2024-12-30 08:55:00 [INFO] 执行成功: update_list
+2024-12-30 08:55:00 [INFO] 开始执行: update_list
+2024-12-30 08:55:00 [INFO] 执行成功: update_list
+2024-12-30 08:59:01 [INFO] 开始执行: update_list
+2024-12-30 08:59:01 [INFO] 执行成功: update_list
+2024-12-30 08:59:01 [INFO] 开始执行: update_list
+2024-12-30 08:59:01 [INFO] 执行成功: update_list
+2024-12-30 08:59:03 [INFO] 开始执行: save_data
+2024-12-30 08:59:03 [INFO] 数据保存成功
+2024-12-30 08:59:03 [INFO] 执行成功: save_data
+2024-12-30 08:59:03 [INFO] 关闭目标管理器
+2024-12-30 08:59:10 [INFO] 启动目标管理器
+2024-12-30 08:59:10 [INFO] 开始执行: load_data
+2024-12-30 08:59:10 [INFO] 成功加载数据
+2024-12-30 08:59:10 [INFO] 执行成功: load_data
+2024-12-30 08:59:10 [INFO] 开始执行: update_list
+2024-12-30 08:59:10 [INFO] 执行成功: update_list
+2024-12-30 08:59:10 [INFO] 启动目标管理器
+2024-12-30 08:59:16 [INFO] 开始执行: update_list
+2024-12-30 08:59:16 [INFO] 执行成功: update_list
+2024-12-30 08:59:16 [INFO] 开始执行: update_list
+2024-12-30 08:59:16 [INFO] 执行成功: update_list
+2024-12-30 09:01:47 [INFO] 启动目标管理器
+2024-12-30 09:01:47 [INFO] 开始执行: load_data
+2024-12-30 09:01:47 [INFO] 成功加载数据
+2024-12-30 09:01:47 [INFO] 执行成功: load_data
+2024-12-30 09:01:47 [INFO] 开始执行: update_list
+2024-12-30 09:01:47 [INFO] 执行成功: update_list
+2024-12-30 09:01:47 [INFO] 启动目标管理器
+2024-12-30 09:02:03 [INFO] 开始执行: add_goal
+2024-12-30 09:02:03 [INFO] 准备添加目标: 个人宣传视频 (优先级: low)
+2024-12-30 09:02:03 [INFO] 开始执行: save_data
+2024-12-30 09:02:03 [INFO] 数据保存成功
+2024-12-30 09:02:03 [INFO] 执行成功: save_data
+2024-12-30 09:02:03 [INFO] 开始执行: update_list
+2024-12-30 09:02:03 [INFO] 执行成功: update_list
+2024-12-30 09:02:03 [INFO] 添加目标成功: [weekly] 个人宣传视频 (优先级: low)
+2024-12-30 09:02:03 [INFO] 执行成功: add_goal
+2024-12-30 09:02:17 [INFO] 用户中断程序
+2024-12-30 09:02:17 [INFO] 关闭目标管理器
+2024-12-30 09:02:33 [INFO] 启动目标管理器
+2024-12-30 09:02:33 [INFO] 开始执行: load_data
+2024-12-30 09:02:33 [INFO] 成功加载数据
+2024-12-30 09:02:33 [INFO] 执行成功: load_data
+2024-12-30 09:02:33 [INFO] 开始执行: update_list
+2024-12-30 09:02:33 [INFO] 执行成功: update_list
+2024-12-30 09:02:33 [INFO] 启动目标管理器
+2024-12-30 09:02:56 [INFO] 开始执行: add_goal
+2024-12-30 09:02:56 [INFO] 准备添加目标: 数据库系统测试和专利申请 (优先级: low)
+2024-12-30 09:02:56 [INFO] 开始执行: save_data
+2024-12-30 09:02:56 [INFO] 数据保存成功
+2024-12-30 09:02:56 [INFO] 执行成功: save_data
+2024-12-30 09:02:56 [INFO] 开始执行: update_list
+2024-12-30 09:02:56 [INFO] 执行成功: update_list
+2024-12-30 09:02:56 [INFO] 添加目标成功: [weekly] 数据库系统测试和专利申请 (优先级: low)
+2024-12-30 09:02:56 [INFO] 执行成功: add_goal
+2024-12-30 09:03:23 [INFO] 开始执行: update_list
+2024-12-30 09:03:23 [INFO] 执行成功: update_list
+2024-12-30 09:03:23 [INFO] 开始执行: update_list
+2024-12-30 09:03:23 [INFO] 执行成功: update_list
+2024-12-30 09:04:42 [INFO] 开始执行: update_list
+2024-12-30 09:04:42 [INFO] 执行成功: update_list
+2024-12-30 09:04:42 [INFO] 开始执行: update_list
+2024-12-30 09:04:42 [INFO] 执行成功: update_list
+2024-12-30 09:04:54 [INFO] 开始执行: update_list
+2024-12-30 09:04:54 [INFO] 执行成功: update_list
+2024-12-30 09:04:54 [INFO] 开始执行: update_list
+2024-12-30 09:04:54 [INFO] 执行成功: update_list
+2024-12-30 09:05:15 [INFO] 开始执行: add_goal
+2024-12-30 09:05:15 [INFO] 准备添加目标: 工作梳理 (优先级: low)
+2024-12-30 09:05:15 [INFO] 开始执行: save_data
+2024-12-30 09:05:15 [INFO] 数据保存成功
+2024-12-30 09:05:15 [INFO] 执行成功: save_data
+2024-12-30 09:05:15 [INFO] 开始执行: update_list
+2024-12-30 09:05:15 [INFO] 执行成功: update_list
+2024-12-30 09:05:15 [INFO] 添加目标成功: [weekly] 工作梳理 (优先级: low)
+2024-12-30 09:05:15 [INFO] 执行成功: add_goal
+2024-12-30 09:08:26 [INFO] 开始执行: update_list
+2024-12-30 09:08:26 [INFO] 执行成功: update_list
+2024-12-30 09:08:26 [INFO] 开始执行: update_list
+2024-12-30 09:08:26 [INFO] 执行成功: update_list
+2024-12-30 09:08:50 [INFO] 开始执行: add_goal
+2024-12-30 09:08:50 [INFO] 准备添加目标: 派安盈账号关注 (优先级: low)
+2024-12-30 09:08:50 [INFO] 开始执行: save_data
+2024-12-30 09:08:50 [INFO] 数据保存成功
+2024-12-30 09:08:50 [INFO] 执行成功: save_data
+2024-12-30 09:08:50 [INFO] 开始执行: update_list
+2024-12-30 09:08:50 [INFO] 执行成功: update_list
+2024-12-30 09:08:50 [INFO] 添加目标成功: [weekly] 派安盈账号关注 (优先级: low)
+2024-12-30 09:08:50 [INFO] 执行成功: add_goal
+2024-12-30 09:12:34 [INFO] 开始执行: update_list
+2024-12-30 09:12:34 [INFO] 执行成功: update_list
+2024-12-30 09:12:34 [INFO] 开始执行: update_list
+2024-12-30 09:12:34 [INFO] 执行成功: update_list
+2024-12-30 09:12:40 [INFO] 开始执行: save_data
+2024-12-30 09:12:40 [INFO] 数据保存成功
+2024-12-30 09:12:40 [INFO] 执行成功: save_data
+2024-12-30 09:12:40 [INFO] 开始执行: update_list
+2024-12-30 09:12:40 [INFO] 执行成功: update_list
+2024-12-31 10:24:07 [INFO] 启动目标管理器
+2024-12-31 10:24:07 [INFO] 开始执行: load_data
+2024-12-31 10:24:07 [INFO] 成功加载数据
+2024-12-31 10:24:07 [INFO] 执行成功: load_data
+2024-12-31 10:24:07 [INFO] 开始执行: update_list
+2024-12-31 10:24:07 [INFO] 执行成功: update_list
+2024-12-31 10:24:07 [INFO] 启动目标管理器
+2024-12-31 10:24:45 [INFO] 开始执行: update_list
+2024-12-31 10:24:45 [INFO] 执行成功: update_list
+2024-12-31 10:24:45 [INFO] 开始执行: update_list
+2024-12-31 10:24:45 [INFO] 执行成功: update_list
+2024-12-31 12:41:32 [INFO] 开始执行: update_list
+2024-12-31 12:41:32 [INFO] 执行成功: update_list
+2024-12-31 12:41:32 [INFO] 开始执行: update_list
+2024-12-31 12:41:32 [INFO] 执行成功: update_list
+2024-12-31 12:41:33 [INFO] 开始执行: save_data
+2024-12-31 12:41:33 [INFO] 数据保存成功
+2024-12-31 12:41:33 [INFO] 执行成功: save_data
+2024-12-31 12:41:33 [INFO] 关闭目标管理器
+2025-01-01 10:35:12 [INFO] 启动目标管理器
+2025-01-01 10:35:12 [INFO] 开始执行: load_data
+2025-01-01 10:35:12 [INFO] 成功加载数据
+2025-01-01 10:35:12 [INFO] 执行成功: load_data
+2025-01-01 10:35:12 [INFO] 开始执行: update_list
+2025-01-01 10:35:12 [INFO] 执行成功: update_list
+2025-01-01 10:35:12 [INFO] 启动目标管理器
+2025-01-01 15:49:50 [INFO] 启动目标管理器
+2025-01-01 15:49:50 [INFO] 开始执行: load_data
+2025-01-01 15:49:50 [INFO] 成功加载数据
+2025-01-01 15:49:50 [INFO] 执行成功: load_data
+2025-01-01 15:49:50 [INFO] 开始执行: update_list
+2025-01-01 15:49:50 [INFO] 执行成功: update_list
+2025-01-01 15:49:50 [INFO] 启动目标管理器
+2025-01-02 08:59:35 [INFO] 启动目标管理器
+2025-01-02 08:59:35 [INFO] 开始执行: load_data
+2025-01-02 08:59:35 [INFO] 成功加载数据
+2025-01-02 08:59:35 [INFO] 执行成功: load_data
+2025-01-02 08:59:35 [INFO] 开始执行: update_list
+2025-01-02 08:59:35 [INFO] 执行成功: update_list
+2025-01-02 08:59:35 [INFO] 启动目标管理器
+2025-01-02 09:03:32 [INFO] 启动目标管理器
+2025-01-02 09:03:32 [INFO] 开始执行: load_data
+2025-01-02 09:03:32 [INFO] 成功加载数据
+2025-01-02 09:03:32 [INFO] 执行成功: load_data
+2025-01-02 09:03:33 [INFO] 开始执行: update_list
+2025-01-02 09:03:33 [INFO] 执行成功: update_list
+2025-01-02 09:03:33 [INFO] 启动目标管理器
+2025-01-02 09:03:49 [INFO] 开始执行: add_goal
+2025-01-02 09:03:49 [INFO] 准备添加目标: 人工智能作业 (优先级: low)
+2025-01-02 09:03:49 [INFO] 开始执行: save_data
+2025-01-02 09:03:49 [INFO] 数据保存成功
+2025-01-02 09:03:49 [INFO] 执行成功: save_data
+2025-01-02 09:03:49 [INFO] 开始执行: update_list
+2025-01-02 09:03:49 [INFO] 执行成功: update_list
+2025-01-02 09:03:49 [INFO] 添加目标成功: [weekly] 人工智能作业 (优先级: low)
+2025-01-02 09:03:49 [INFO] 执行成功: add_goal
+2025-01-02 09:04:35 [INFO] 开始执行: update_list
+2025-01-02 09:04:35 [INFO] 执行成功: update_list
+2025-01-02 09:04:35 [INFO] 开始执行: update_list
+2025-01-02 09:04:35 [INFO] 执行成功: update_list
+2025-01-02 09:04:37 [INFO] 开始执行: save_data
+2025-01-02 09:04:37 [INFO] 数据保存成功
+2025-01-02 09:04:37 [INFO] 执行成功: save_data
+2025-01-02 09:04:37 [INFO] 关闭目标管理器
+2025-01-02 09:18:47 [INFO] 开始执行: update_list
+2025-01-02 09:18:47 [INFO] 执行成功: update_list
+2025-01-02 09:18:47 [INFO] 开始执行: update_list
+2025-01-02 09:18:47 [INFO] 执行成功: update_list
+2025-01-02 10:39:34 [INFO] 开始执行: update_list
+2025-01-02 10:39:34 [INFO] 执行成功: update_list
+2025-01-02 10:39:34 [INFO] 开始执行: update_list
+2025-01-02 10:39:34 [INFO] 执行成功: update_list
+2025-01-02 10:39:36 [INFO] 开始执行: save_data
+2025-01-02 10:39:36 [INFO] 数据保存成功
+2025-01-02 10:39:36 [INFO] 执行成功: save_data
+2025-01-02 10:39:36 [INFO] 开始执行: update_list
+2025-01-02 10:39:36 [INFO] 执行成功: update_list
+2025-01-03 08:33:54 [INFO] 启动目标管理器
+2025-01-03 08:33:54 [INFO] 开始执行: load_data
+2025-01-03 08:33:54 [INFO] 成功加载数据
+2025-01-03 08:33:54 [INFO] 执行成功: load_data
+2025-01-03 08:33:54 [INFO] 开始执行: update_list
+2025-01-03 08:33:54 [INFO] 执行成功: update_list
+2025-01-03 08:33:54 [INFO] 启动目标管理器
+2025-01-03 09:14:20 [INFO] 开始执行: update_list
+2025-01-03 09:14:20 [INFO] 执行成功: update_list
+2025-01-03 09:14:20 [INFO] 开始执行: update_list
+2025-01-03 09:14:20 [INFO] 执行成功: update_list
+2025-01-03 09:14:25 [INFO] 开始执行: save_data
+2025-01-03 09:14:25 [INFO] 数据保存成功
+2025-01-03 09:14:25 [INFO] 执行成功: save_data
+2025-01-03 09:14:25 [INFO] 开始执行: update_list
+2025-01-03 09:14:25 [INFO] 执行成功: update_list
+2025-01-03 09:14:28 [INFO] 开始执行: save_data
+2025-01-03 09:14:28 [INFO] 数据保存成功
+2025-01-03 09:14:28 [INFO] 执行成功: save_data
+2025-01-03 09:14:28 [INFO] 开始执行: update_list
+2025-01-03 09:14:28 [INFO] 执行成功: update_list
+2025-01-04 09:52:10 [INFO] 启动目标管理器
+2025-01-04 09:52:10 [INFO] 开始执行: load_data
+2025-01-04 09:52:10 [INFO] 成功加载数据
+2025-01-04 09:52:10 [INFO] 执行成功: load_data
+2025-01-04 09:52:11 [INFO] 开始执行: update_list
+2025-01-04 09:52:11 [INFO] 执行成功: update_list
+2025-01-04 09:52:11 [INFO] 启动目标管理器
+2025-01-04 14:20:38 [INFO] 启动目标管理器
+2025-01-04 14:20:38 [INFO] 开始执行: load_data
+2025-01-04 14:20:38 [INFO] 成功加载数据
+2025-01-04 14:20:38 [INFO] 执行成功: load_data
+2025-01-04 14:20:38 [INFO] 开始执行: update_list
+2025-01-04 14:20:38 [INFO] 执行成功: update_list
+2025-01-04 14:20:38 [INFO] 启动目标管理器
+2025-01-04 19:03:21 [INFO] 启动目标管理器
+2025-01-04 19:03:21 [INFO] 开始执行: load_data
+2025-01-04 19:03:21 [INFO] 成功加载数据
+2025-01-04 19:03:21 [INFO] 执行成功: load_data
+2025-01-04 19:03:22 [INFO] 开始执行: update_list
+2025-01-04 19:03:22 [INFO] 执行成功: update_list
+2025-01-04 19:03:22 [INFO] 启动目标管理器
+2025-01-06 08:46:52 [INFO] 启动目标管理器
+2025-01-06 08:46:52 [INFO] 开始执行: load_data
+2025-01-06 08:46:52 [INFO] 成功加载数据
+2025-01-06 08:46:52 [INFO] 执行成功: load_data
+2025-01-06 08:46:52 [INFO] 开始执行: update_list
+2025-01-06 08:46:52 [INFO] 执行成功: update_list
+2025-01-06 08:46:52 [INFO] 启动目标管理器
+2025-01-07 13:10:46 [INFO] 启动目标管理器
+2025-01-07 13:10:46 [INFO] 开始执行: load_data
+2025-01-07 13:10:46 [INFO] 成功加载数据
+2025-01-07 13:10:46 [INFO] 执行成功: load_data
+2025-01-07 13:10:47 [INFO] 开始执行: update_list
+2025-01-07 13:10:47 [INFO] 执行成功: update_list
+2025-01-07 13:10:47 [INFO] 启动目标管理器
+2025-01-07 13:11:09 [INFO] 切换到本月目标列表
+2025-01-07 13:11:09 [INFO] 开始执行: update_list
+2025-01-07 13:11:09 [INFO] 执行成功: update_list
+2025-01-07 13:11:10 [INFO] 切换到本周目标列表
+2025-01-07 13:11:10 [INFO] 开始执行: update_list
+2025-01-07 13:11:10 [INFO] 执行成功: update_list
+2025-01-07 13:11:15 [INFO] 开始执行: save_data
+2025-01-07 13:11:15 [INFO] 数据保存成功
+2025-01-07 13:11:15 [INFO] 执行成功: save_data
+2025-01-07 13:11:15 [INFO] 开始执行: update_list
+2025-01-07 13:11:15 [INFO] 执行成功: update_list
+2025-01-08 11:45:43 [INFO] 启动目标管理器
+2025-01-08 11:45:43 [INFO] 开始执行: load_data
+2025-01-08 11:45:43 [INFO] 成功加载数据
+2025-01-08 11:45:43 [INFO] 执行成功: load_data
+2025-01-08 11:45:44 [INFO] 开始执行: update_list
+2025-01-08 11:45:44 [INFO] 执行成功: update_list
+2025-01-08 11:45:44 [INFO] 启动目标管理器
+2025-01-08 11:46:09 [INFO] 开始执行: update_list
+2025-01-08 11:46:09 [INFO] 执行成功: update_list
+2025-01-08 11:46:09 [INFO] 开始执行: update_list
+2025-01-08 11:46:09 [INFO] 执行成功: update_list
+2025-01-08 11:46:21 [INFO] 开始执行: update_list
+2025-01-08 11:46:21 [INFO] 执行成功: update_list
+2025-01-08 11:46:21 [INFO] 开始执行: update_list
+2025-01-08 11:46:21 [INFO] 执行成功: update_list
+2025-01-08 11:49:40 [INFO] 开始执行: update_list
+2025-01-08 11:49:40 [INFO] 执行成功: update_list
+2025-01-08 11:49:40 [INFO] 开始执行: update_list
+2025-01-08 11:49:40 [INFO] 执行成功: update_list
+2025-01-14 14:42:50 [INFO] 启动目标管理器
+2025-01-14 14:42:50 [INFO] 开始执行: load_data
+2025-01-14 14:42:50 [INFO] 成功加载数据
+2025-01-14 14:42:50 [INFO] 执行成功: load_data
+2025-01-14 14:42:51 [INFO] 开始执行: update_list
+2025-01-14 14:42:51 [INFO] 执行成功: update_list
+2025-01-14 14:42:51 [INFO] 启动目标管理器
+2025-01-16 10:05:51 [INFO] 启动目标管理器
+2025-01-16 10:05:51 [INFO] 开始执行: load_data
+2025-01-16 10:05:51 [INFO] 成功加载数据
+2025-01-16 10:05:51 [INFO] 执行成功: load_data
+2025-01-16 10:05:51 [INFO] 开始执行: update_list
+2025-01-16 10:05:51 [INFO] 执行成功: update_list
+2025-01-16 10:05:51 [INFO] 启动目标管理器
+2025-01-22 20:52:31 [INFO] 启动目标管理器
+2025-01-22 20:52:31 [INFO] 开始执行: load_data
+2025-01-22 20:52:31 [INFO] 成功加载数据
+2025-01-22 20:52:31 [INFO] 执行成功: load_data
+2025-01-22 20:52:31 [INFO] 开始执行: update_list
+2025-01-22 20:52:31 [INFO] 执行成功: update_list
+2025-01-22 20:52:31 [INFO] 启动目标管理器
+2025-01-28 23:40:23 [INFO] 启动目标管理器
+2025-01-28 23:40:23 [INFO] 开始执行: load_data
+2025-01-28 23:40:23 [INFO] 成功加载数据
+2025-01-28 23:40:23 [INFO] 执行成功: load_data
+2025-01-28 23:40:23 [INFO] 开始执行: update_list
+2025-01-28 23:40:23 [INFO] 执行成功: update_list
+2025-01-28 23:40:23 [INFO] 启动目标管理器
+2025-01-28 23:40:32 [INFO] 开始执行: save_data
+2025-01-28 23:40:32 [INFO] 数据保存成功
+2025-01-28 23:40:32 [INFO] 执行成功: save_data
+2025-01-28 23:40:32 [INFO] 开始执行: update_list
+2025-01-28 23:40:33 [INFO] 执行成功: update_list
+2025-01-28 23:40:46 [INFO] 开始执行: update_list
+2025-01-28 23:40:46 [INFO] 执行成功: update_list
+2025-01-28 23:40:46 [INFO] 开始执行: update_list
+2025-01-28 23:40:46 [INFO] 执行成功: update_list
+2025-01-30 12:20:36 [INFO] 启动目标管理器
+2025-01-30 12:20:36 [INFO] 开始执行: load_data
+2025-01-30 12:20:36 [INFO] 成功加载数据
+2025-01-30 12:20:36 [INFO] 执行成功: load_data
+2025-01-30 12:20:36 [INFO] 开始执行: update_list
+2025-01-30 12:20:36 [INFO] 执行成功: update_list
+2025-01-30 12:20:36 [INFO] 启动目标管理器
+2025-01-30 12:20:52 [INFO] 开始执行: update_list
+2025-01-30 12:20:52 [INFO] 执行成功: update_list
+2025-01-30 12:20:52 [INFO] 开始执行: update_list
+2025-01-30 12:20:52 [INFO] 执行成功: update_list
+2025-02-10 10:32:10 [INFO] 启动目标管理器
+2025-02-10 10:32:10 [INFO] 开始执行: load_data
+2025-02-10 10:32:10 [INFO] 成功加载数据
+2025-02-10 10:32:10 [INFO] 执行成功: load_data
+2025-02-10 10:32:10 [INFO] 开始执行: update_list
+2025-02-10 10:32:10 [INFO] 执行成功: update_list
+2025-02-10 10:32:10 [INFO] 启动目标管理器
+2025-02-10 10:32:25 [INFO] 开始执行: update_list
+2025-02-10 10:32:25 [INFO] 执行成功: update_list
+2025-02-10 10:32:25 [INFO] 切换深色主题
+2025-02-10 10:32:26 [INFO] 开始执行: update_list
+2025-02-10 10:32:26 [INFO] 执行成功: update_list
+2025-02-10 10:32:26 [INFO] 切换浅色主题
+2025-02-10 10:32:41 [INFO] 开始执行: update_list
+2025-02-10 10:32:41 [INFO] 执行成功: update_list
+2025-02-10 10:32:41 [INFO] 开始执行: update_list
+2025-02-10 10:32:41 [INFO] 执行成功: update_list
+2025-02-10 10:32:44 [INFO] 开始执行: save_data
+2025-02-10 10:32:44 [INFO] 数据保存成功
+2025-02-10 10:32:44 [INFO] 执行成功: save_data
+2025-02-10 10:32:44 [INFO] 关闭目标管理器
+2025-02-10 10:32:55 [INFO] 启动目标管理器
+2025-02-10 10:32:55 [INFO] 开始执行: load_data
+2025-02-10 10:32:55 [INFO] 成功加载数据
+2025-02-10 10:32:55 [INFO] 执行成功: load_data
+2025-02-10 10:32:55 [INFO] 开始执行: update_list
+2025-02-10 10:32:55 [INFO] 执行成功: update_list
+2025-02-10 10:32:55 [INFO] 启动目标管理器
+2025-02-10 10:33:08 [INFO] 开始执行: save_data
+2025-02-10 10:33:08 [INFO] 数据保存成功
+2025-02-10 10:33:08 [INFO] 执行成功: save_data
+2025-02-10 10:33:08 [INFO] 开始执行: update_list
+2025-02-10 10:33:08 [INFO] 执行成功: update_list
+2025-02-10 10:33:13 [INFO] 开始执行: save_data
+2025-02-10 10:33:13 [INFO] 数据保存成功
+2025-02-10 10:33:13 [INFO] 执行成功: save_data
+2025-02-10 10:33:13 [INFO] 开始执行: update_list
+2025-02-10 10:33:13 [INFO] 执行成功: update_list
+2025-02-10 10:33:16 [INFO] 开始执行: save_data
+2025-02-10 10:33:16 [INFO] 数据保存成功
+2025-02-10 10:33:16 [INFO] 执行成功: save_data
+2025-02-10 10:33:16 [INFO] 开始执行: update_list
+2025-02-10 10:33:16 [INFO] 执行成功: update_list
+2025-02-10 10:33:18 [INFO] 开始执行: save_data
+2025-02-10 10:33:18 [INFO] 数据保存成功
+2025-02-10 10:33:18 [INFO] 执行成功: save_data
+2025-02-10 10:33:18 [INFO] 开始执行: update_list
+2025-02-10 10:33:18 [INFO] 执行成功: update_list
+2025-02-10 10:33:20 [INFO] 开始执行: save_data
+2025-02-10 10:33:20 [INFO] 数据保存成功
+2025-02-10 10:33:20 [INFO] 执行成功: save_data
+2025-02-10 10:33:20 [INFO] 开始执行: update_list
+2025-02-10 10:33:20 [INFO] 执行成功: update_list
+2025-02-10 10:33:22 [INFO] 开始执行: save_data
+2025-02-10 10:33:22 [INFO] 数据保存成功
+2025-02-10 10:33:22 [INFO] 执行成功: save_data
+2025-02-10 10:33:22 [INFO] 开始执行: update_list
+2025-02-10 10:33:22 [INFO] 执行成功: update_list
+2025-02-10 10:33:25 [INFO] 开始执行: save_data
+2025-02-10 10:33:25 [INFO] 数据保存成功
+2025-02-10 10:33:25 [INFO] 执行成功: save_data
+2025-02-10 10:33:25 [INFO] 开始执行: update_list
+2025-02-10 10:33:25 [INFO] 执行成功: update_list
+2025-02-10 10:33:27 [INFO] 开始执行: save_data
+2025-02-10 10:33:27 [INFO] 数据保存成功
+2025-02-10 10:33:27 [INFO] 执行成功: save_data
+2025-02-10 10:33:27 [INFO] 开始执行: update_list
+2025-02-10 10:33:27 [INFO] 执行成功: update_list
+2025-02-10 10:33:29 [INFO] 开始执行: save_data
+2025-02-10 10:33:29 [INFO] 数据保存成功
+2025-02-10 10:33:29 [INFO] 执行成功: save_data
+2025-02-10 10:33:29 [INFO] 开始执行: update_list
+2025-02-10 10:33:29 [INFO] 执行成功: update_list
+2025-02-10 10:33:31 [INFO] 开始执行: save_data
+2025-02-10 10:33:31 [INFO] 数据保存成功
+2025-02-10 10:33:31 [INFO] 执行成功: save_data
+2025-02-10 10:33:31 [INFO] 开始执行: update_list
+2025-02-10 10:33:31 [INFO] 执行成功: update_list
+2025-02-10 10:33:33 [INFO] 开始执行: save_data
+2025-02-10 10:33:33 [INFO] 数据保存成功
+2025-02-10 10:33:33 [INFO] 执行成功: save_data
+2025-02-10 10:33:33 [INFO] 开始执行: update_list
+2025-02-10 10:33:33 [INFO] 执行成功: update_list
+2025-02-10 10:33:36 [INFO] 开始执行: save_data
+2025-02-10 10:33:36 [INFO] 数据保存成功
+2025-02-10 10:33:36 [INFO] 执行成功: save_data
+2025-02-10 10:33:36 [INFO] 开始执行: update_list
+2025-02-10 10:33:36 [INFO] 执行成功: update_list
+2025-02-10 10:33:38 [INFO] 开始执行: save_data
+2025-02-10 10:33:38 [INFO] 数据保存成功
+2025-02-10 10:33:38 [INFO] 执行成功: save_data
+2025-02-10 10:33:38 [INFO] 开始执行: update_list
+2025-02-10 10:33:38 [INFO] 执行成功: update_list
+2025-02-10 10:33:40 [INFO] 开始执行: save_data
+2025-02-10 10:33:40 [INFO] 数据保存成功
+2025-02-10 10:33:40 [INFO] 执行成功: save_data
+2025-02-10 10:33:40 [INFO] 开始执行: update_list
+2025-02-10 10:33:40 [INFO] 执行成功: update_list
+2025-02-10 10:33:42 [INFO] 开始执行: save_data
+2025-02-10 10:33:42 [INFO] 数据保存成功
+2025-02-10 10:33:42 [INFO] 执行成功: save_data
+2025-02-10 10:33:42 [INFO] 开始执行: update_list
+2025-02-10 10:33:42 [INFO] 执行成功: update_list
+2025-02-10 10:33:52 [INFO] 开始执行: save_data
+2025-02-10 10:33:52 [INFO] 数据保存成功
+2025-02-10 10:33:52 [INFO] 执行成功: save_data
+2025-02-10 10:33:52 [INFO] 关闭目标管理器
+2025-02-10 10:43:02 [INFO] 启动目标管理器
+2025-02-10 10:43:02 [INFO] 开始执行: load_data
+2025-02-10 10:43:02 [INFO] 成功加载数据
+2025-02-10 10:43:02 [INFO] 执行成功: load_data
+2025-02-10 10:43:02 [INFO] 开始执行: update_list
+2025-02-10 10:43:02 [INFO] 执行成功: update_list
+2025-02-10 10:43:02 [INFO] 启动目标管理器
+2025-02-10 10:43:04 [INFO] 开始执行: save_data
+2025-02-10 10:43:04 [INFO] 数据保存成功
+2025-02-10 10:43:04 [INFO] 执行成功: save_data
+2025-02-10 10:43:04 [INFO] 关闭目标管理器
+2025-02-10 10:44:51 [INFO] 启动目标管理器
+2025-02-10 10:44:51 [INFO] 开始执行: load_data
+2025-02-10 10:44:51 [INFO] 成功加载数据
+2025-02-10 10:44:51 [INFO] 执行成功: load_data
+2025-02-10 10:44:51 [INFO] 开始执行: update_list
+2025-02-10 10:44:51 [INFO] 执行成功: update_list
+2025-02-10 10:44:51 [INFO] 启动目标管理器
+2025-02-10 10:44:54 [INFO] 切换到本月目标列表
+2025-02-10 10:44:54 [INFO] 开始执行: update_list
+2025-02-10 10:44:54 [INFO] 执行成功: update_list
+2025-02-10 10:44:54 [INFO] 切换到本年目标列表
+2025-02-10 10:44:54 [INFO] 开始执行: update_list
+2025-02-10 10:44:54 [INFO] 执行成功: update_list
+2025-02-10 10:44:57 [INFO] 切换到本周目标列表
+2025-02-10 10:44:57 [INFO] 开始执行: update_list
+2025-02-10 10:44:57 [INFO] 执行成功: update_list
+2025-02-10 10:44:57 [INFO] 切换到本月目标列表
+2025-02-10 10:44:57 [INFO] 开始执行: update_list
+2025-02-10 10:44:57 [INFO] 执行成功: update_list
+2025-02-10 10:44:58 [INFO] 切换到本年目标列表
+2025-02-10 10:44:58 [INFO] 开始执行: update_list
+2025-02-10 10:44:58 [INFO] 执行成功: update_list
+2025-02-10 10:44:59 [INFO] 切换到本周目标列表
+2025-02-10 10:44:59 [INFO] 开始执行: update_list
+2025-02-10 10:44:59 [INFO] 执行成功: update_list
+2025-02-10 10:45:05 [INFO] 开始执行: save_data
+2025-02-10 10:45:05 [INFO] 数据保存成功
+2025-02-10 10:45:05 [INFO] 执行成功: save_data
+2025-02-10 10:45:05 [INFO] 关闭目标管理器
+2025-02-10 10:48:42 [INFO] 启动目标管理器
+2025-02-10 10:48:42 [INFO] 开始执行: load_data
+2025-02-10 10:48:42 [INFO] 创建新的数据文件
+2025-02-10 10:48:42 [INFO] 执行成功: load_data
+2025-02-10 10:48:43 [INFO] 开始执行: update_list
+2025-02-10 10:48:43 [INFO] 执行成功: update_list
+2025-02-10 10:48:43 [INFO] 启动目标管理器
+2025-02-10 10:48:54 [INFO] 开始执行: save_data
+2025-02-10 10:48:54 [INFO] 数据保存成功
+2025-02-10 10:48:54 [INFO] 执行成功: save_data
+2025-02-10 10:48:54 [INFO] 开始执行: update_list
+2025-02-10 10:48:54 [INFO] 执行成功: update_list
+2025-02-10 10:48:57 [INFO] 开始执行: save_data
+2025-02-10 10:48:57 [INFO] 数据保存成功
+2025-02-10 10:48:57 [INFO] 执行成功: save_data
+2025-02-10 10:48:57 [INFO] 开始执行: update_list
+2025-02-10 10:48:57 [INFO] 执行成功: update_list
+2025-02-10 10:49:00 [INFO] 开始执行: save_data
+2025-02-10 10:49:00 [INFO] 数据保存成功
+2025-02-10 10:49:00 [INFO] 执行成功: save_data
+2025-02-10 10:49:00 [INFO] 开始执行: update_list
+2025-02-10 10:49:00 [INFO] 执行成功: update_list
+2025-02-10 10:49:04 [INFO] 开始执行: save_data
+2025-02-10 10:49:04 [INFO] 数据保存成功
+2025-02-10 10:49:04 [INFO] 执行成功: save_data
+2025-02-10 10:49:04 [INFO] 开始执行: update_list
+2025-02-10 10:49:04 [INFO] 执行成功: update_list
+2025-02-10 10:49:08 [INFO] 切换到本年目标列表
+2025-02-10 10:49:08 [INFO] 开始执行: update_list
+2025-02-10 10:49:08 [INFO] 执行成功: update_list
+2025-02-10 10:49:09 [INFO] 切换到本月目标列表
+2025-02-10 10:49:09 [INFO] 开始执行: update_list
+2025-02-10 10:49:09 [INFO] 执行成功: update_list
+2025-02-10 10:49:09 [INFO] 切换到本周目标列表
+2025-02-10 10:49:09 [INFO] 开始执行: update_list
+2025-02-10 10:49:09 [INFO] 执行成功: update_list
+2025-02-10 10:49:11 [INFO] 开始执行: save_data
+2025-02-10 10:49:11 [INFO] 数据保存成功
+2025-02-10 10:49:11 [INFO] 执行成功: save_data
+2025-02-10 10:49:11 [INFO] 关闭目标管理器
+2025-02-10 10:53:18 [INFO] 启动目标管理器
+2025-02-10 10:53:18 [INFO] 开始执行: load_data
+2025-02-10 10:53:18 [INFO] 成功加载数据
+2025-02-10 10:53:18 [INFO] 执行成功: load_data
+2025-02-10 10:53:18 [INFO] 开始执行: update_list
+2025-02-10 10:53:18 [INFO] 执行成功: update_list
+2025-02-10 10:53:18 [INFO] 启动目标管理器
+2025-02-10 10:53:32 [INFO] 切换到本月目标列表
+2025-02-10 10:53:32 [INFO] 开始执行: update_list
+2025-02-10 10:53:32 [INFO] 执行成功: update_list
+2025-02-10 10:53:32 [INFO] 切换到本年目标列表
+2025-02-10 10:53:32 [INFO] 开始执行: update_list
+2025-02-10 10:53:32 [INFO] 执行成功: update_list
+2025-02-10 10:53:33 [INFO] 切换到本周目标列表
+2025-02-10 10:53:33 [INFO] 开始执行: update_list
+2025-02-10 10:53:33 [INFO] 执行成功: update_list
+2025-02-10 10:53:49 [INFO] 开始执行: update_list
+2025-02-10 10:53:49 [INFO] 执行成功: update_list
+2025-02-10 10:53:49 [INFO] 开始执行: update_list
+2025-02-10 10:53:49 [INFO] 执行成功: update_list
+2025-02-10 10:53:59 [INFO] 开始执行: save_data
+2025-02-10 10:53:59 [INFO] 数据保存成功
+2025-02-10 10:53:59 [INFO] 执行成功: save_data
+2025-02-10 10:53:59 [INFO] 关闭目标管理器
+2025-02-10 10:54:12 [INFO] 启动目标管理器
+2025-02-10 10:54:12 [INFO] 开始执行: load_data
+2025-02-10 10:54:12 [INFO] 成功加载数据
+2025-02-10 10:54:12 [INFO] 执行成功: load_data
+2025-02-10 10:54:12 [INFO] 开始执行: update_list
+2025-02-10 10:54:12 [INFO] 执行成功: update_list
+2025-02-10 10:54:12 [INFO] 启动目标管理器
+2025-02-10 10:54:20 [INFO] 切换到本月目标列表
+2025-02-10 10:54:20 [INFO] 开始执行: update_list
+2025-02-10 10:54:20 [INFO] 执行成功: update_list
+2025-02-10 10:54:21 [INFO] 切换到本年目标列表
+2025-02-10 10:54:21 [INFO] 开始执行: update_list
+2025-02-10 10:54:21 [INFO] 执行成功: update_list
+2025-02-10 10:54:33 [INFO] 切换到本周目标列表
+2025-02-10 10:54:33 [INFO] 开始执行: update_list
+2025-02-10 10:54:33 [INFO] 执行成功: update_list
+2025-02-10 10:56:31 [INFO] 开始执行: update_list
+2025-02-10 10:56:31 [INFO] 执行成功: update_list
+2025-02-10 10:56:31 [INFO] 开始执行: update_list
+2025-02-10 10:56:31 [INFO] 执行成功: update_list
+2025-02-10 10:56:35 [INFO] 开始执行: save_data
+2025-02-10 10:56:35 [INFO] 数据保存成功
+2025-02-10 10:56:35 [INFO] 执行成功: save_data
+2025-02-10 10:56:35 [INFO] 关闭目标管理器
+2025-02-10 10:56:38 [INFO] 启动目标管理器
+2025-02-10 10:56:38 [INFO] 开始执行: load_data
+2025-02-10 10:56:38 [INFO] 成功加载数据
+2025-02-10 10:56:38 [INFO] 执行成功: load_data
+2025-02-10 10:56:38 [INFO] 开始执行: update_list
+2025-02-10 10:56:38 [INFO] 执行成功: update_list
+2025-02-10 10:56:38 [INFO] 启动目标管理器
+2025-02-10 10:58:48 [INFO] 开始执行: update_list
+2025-02-10 10:58:48 [INFO] 执行成功: update_list
+2025-02-10 10:58:48 [INFO] 开始执行: update_list
+2025-02-10 10:58:48 [INFO] 执行成功: update_list
+2025-02-10 10:58:50 [INFO] 开始执行: save_data
+2025-02-10 10:58:50 [INFO] 数据保存成功
+2025-02-10 10:58:50 [INFO] 执行成功: save_data
+2025-02-10 10:58:50 [INFO] 关闭目标管理器
+2025-02-10 10:58:56 [INFO] 启动目标管理器
+2025-02-10 10:58:56 [INFO] 开始执行: load_data
+2025-02-10 10:58:56 [INFO] 成功加载数据
+2025-02-10 10:58:56 [INFO] 执行成功: load_data
+2025-02-10 10:59:54 [INFO] 启动目标管理器
+2025-02-10 10:59:54 [INFO] 开始执行: load_data
+2025-02-10 10:59:54 [INFO] 成功加载数据
+2025-02-10 10:59:54 [INFO] 执行成功: load_data
+2025-02-10 10:59:54 [INFO] 开始执行: update_list
+2025-02-10 10:59:54 [INFO] 执行成功: update_list
+2025-02-10 10:59:54 [INFO] 启动目标管理器
+2025-02-10 10:59:57 [INFO] 切换语言到: en_US
+2025-02-10 11:00:04 [INFO] 开始执行: save_data
+2025-02-10 11:00:04 [INFO] 数据保存成功
+2025-02-10 11:00:04 [INFO] 执行成功: save_data
+2025-02-10 11:00:04 [INFO] 关闭目标管理器
+2025-02-10 11:06:41 [INFO] 启动目标管理器
+2025-02-10 11:06:41 [INFO] 开始执行: load_data
+2025-02-10 11:06:41 [INFO] 成功加载数据
+2025-02-10 11:06:41 [INFO] 执行成功: load_data
+2025-02-10 11:06:41 [INFO] 开始执行: update_list
+2025-02-10 11:06:42 [INFO] 执行成功: update_list
+2025-02-10 11:06:42 [INFO] 启动目标管理器
+2025-02-10 11:06:46 [INFO] 切换到本月目标列表
+2025-02-10 11:06:46 [INFO] 开始执行: update_list
+2025-02-10 11:06:46 [INFO] 执行成功: update_list
+2025-02-10 11:06:47 [INFO] 切换到本年目标列表
+2025-02-10 11:06:47 [INFO] 开始执行: update_list
+2025-02-10 11:06:47 [INFO] 执行成功: update_list
+2025-02-10 11:06:47 [INFO] 切换到本周目标列表
+2025-02-10 11:06:47 [INFO] 开始执行: update_list
+2025-02-10 11:06:47 [INFO] 执行成功: update_list
+2025-02-10 11:07:00 [INFO] 开始执行: update_list
+2025-02-10 11:07:00 [INFO] 执行成功: update_list
+2025-02-10 11:07:00 [INFO] 切换浅色主题
+2025-02-10 11:07:01 [INFO] 开始执行: update_list
+2025-02-10 11:07:01 [INFO] 执行成功: update_list
+2025-02-10 11:07:01 [INFO] 切换深色主题
+2025-02-10 11:07:24 [INFO] 开始执行: update_list
+2025-02-10 11:07:24 [INFO] 执行成功: update_list
+2025-02-10 11:07:24 [INFO] 开始执行: update_list
+2025-02-10 11:07:24 [INFO] 执行成功: update_list
+2025-02-10 11:07:26 [INFO] 开始执行: save_data
+2025-02-10 11:07:26 [INFO] 数据保存成功
+2025-02-10 11:07:26 [INFO] 执行成功: save_data
+2025-02-10 11:07:26 [INFO] 关闭目标管理器

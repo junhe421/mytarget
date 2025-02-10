@@ -1,0 +1,66 @@
+{
+    "zh_CN": {
+        "app_title": "我的T",
+        "weekly": "本周",
+        "monthly": "本月",
+        "yearly": "本年",
+        "add_button": "添加",
+        "priority": {
+            "high": "高",
+            "medium": "中",
+            "low": "低"
+        },
+        "menu": {
+            "edit": "编辑",
+            "delete": "删除"
+        },
+        "dialog": {
+            "confirm_delete": "确认删除",
+            "confirm_delete_message": "确定要删除这个目标吗？",
+            "edit_goal": "编辑目标",
+            "goal_content": "目标内容:",
+            "priority_label": "优先级:",
+            "save": "保存",
+            "cancel": "取消"
+        },
+        "quote": {
+            "edit_quotes": "编辑语录",
+            "add_quote": "添加语录",
+            "add": "添加"
+        },
+        "author": "作者：A先生  QQ交流：3956582704",
+        "todo_count": "待办{}"
+    },
+    "en_US": {
+        "app_title": "MyTarget",
+        "weekly": "Weekly",
+        "monthly": "Monthly",
+        "yearly": "Yearly",
+        "add_button": "Add",
+        "priority": {
+            "high": "High",
+            "medium": "Medium",
+            "low": "Low"
+        },
+        "menu": {
+            "edit": "Edit",
+            "delete": "Delete"
+        },
+        "dialog": {
+            "confirm_delete": "Confirm Delete",
+            "confirm_delete_message": "Are you sure you want to delete this goal?",
+            "edit_goal": "Edit Goal",
+            "goal_content": "Goal Content:",
+            "priority_label": "Priority:",
+            "save": "Save",
+            "cancel": "Cancel"
+        },
+        "quote": {
+            "edit_quotes": "Edit Quotes",
+            "add_quote": "Add Quote",
+            "add": "Add"
+        },
+        "author": "Author: Mr.A  QQ: 3956582704",
+        "todo_count": "Todo {}"
+    }
+} 

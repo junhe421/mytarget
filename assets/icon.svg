@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景圆形 -->
+    <circle cx="32" cy="32" r="30" fill="#2196F3"/>
+    <!-- M字母 -->
+    <path d="M20 20 L20 44 L26 44 L32 30 L38 44 L44 44 L44 20 L38 20 L38 36 L32 24 L26 36 L26 20 Z" 
+          fill="white"/>
+    <!-- T字母 -->
+    <path d="M28 15 L36 15 L36 17 L33 17 L33 19 L31 19 L31 17 L28 17 Z" 
+          fill="white"/>
+</svg> 
